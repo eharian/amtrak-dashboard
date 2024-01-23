@@ -1,0 +1,6096 @@
+[{
+    "train": "Sunset Limited",
+    "source_delay": [{
+            "station": "LAX",
+            "delay": 3.108974358974359
+        },
+        {
+            "station": "NOL",
+            "delay": 7.068965517241379
+        },
+        {
+            "station": "HOS",
+            "delay": 39.24913494809689
+        },
+        {
+            "station": "SAS",
+            "delay": 52.235690235690235
+        },
+        {
+            "station": "ALP",
+            "delay": 65.63311688311688
+        },
+        {
+            "station": "NIB",
+            "delay": 65.78472222222223
+        },
+        {
+            "station": "LFT",
+            "delay": 66.91319444444444
+        },
+        {
+            "station": "SCH",
+            "delay": 68.18055555555556
+        },
+        {
+            "station": "SND",
+            "delay": 69.08709677419355
+        },
+        {
+            "station": "POS",
+            "delay": 69.77133105802048
+        },
+        {
+            "station": "TUS",
+            "delay": 69.90967741935484
+        },
+        {
+            "station": "ONA",
+            "delay": 70.65016501650165
+        },
+        {
+            "station": "BMT",
+            "delay": 71.12237762237763
+        },
+        {
+            "station": "DRT",
+            "delay": 74.08414239482201
+        },
+        {
+            "station": "ELP",
+            "delay": 75.32362459546925
+        },
+        {
+            "station": "PSN",
+            "delay": 77.08441558441558
+        },
+        {
+            "station": "LCH",
+            "delay": 77.27622377622377
+        },
+        {
+            "station": "YUM",
+            "delay": 78.64077669902913
+        },
+        {
+            "station": "DEM",
+            "delay": 80.04137931034482
+        },
+        {
+            "station": "MRC",
+            "delay": 81.73225806451613
+        },
+        {
+            "station": "BEN",
+            "delay": 83.08710801393728
+        },
+        {
+            "station": "LDB",
+            "delay": 87.10967741935484
+        }
+    ],
+    "destination_delay": [{
+            "station": "SAS",
+            "delay": 48.56206896551724
+        },
+        {
+            "station": "HOS",
+            "delay": 58.88850174216028
+        },
+        {
+            "station": "ALP",
+            "delay": 60.33441558441559
+        },
+        {
+            "station": "LFT",
+            "delay": 63.75
+        },
+        {
+            "station": "BMT",
+            "delay": 68.92657342657343
+        },
+        {
+            "station": "TUS",
+            "delay": 69.08709677419355
+        },
+        {
+            "station": "MRC",
+            "delay": 71.72903225806452
+        },
+        {
+            "station": "ELP",
+            "delay": 77.53398058252426
+        },
+        {
+            "station": "NOL",
+            "delay": 82.67832167832168
+        },
+        {
+            "station": "LAX",
+            "delay": 97.92156862745098
+        }
+    ]
+},
+{
+    "train": "Southwest Chief",
+    "source_delay": [{
+            "station": "CHI",
+            "delay": 2.040625
+        },
+        {
+            "station": "LAX",
+            "delay": 5.76875
+        },
+        {
+            "station": "KCY",
+            "delay": 20.2859375
+        },
+        {
+            "station": "NPV",
+            "delay": 27.95141065830721
+        },
+        {
+            "station": "LAP",
+            "delay": 30.669826224328595
+        },
+        {
+            "station": "ABQ",
+            "delay": 31.2574568288854
+        },
+        {
+            "station": "PCT",
+            "delay": 31.758346581875994
+        },
+        {
+            "station": "GBB",
+            "delay": 31.938485804416406
+        },
+        {
+            "station": "FMD",
+            "delay": 32.162974683544306
+        },
+        {
+            "station": "TOP",
+            "delay": 32.26729559748428
+        },
+        {
+            "station": "MDT",
+            "delay": 32.710651828298886
+        },
+        {
+            "station": "LAJ",
+            "delay": 33.82574568288854
+        },
+        {
+            "station": "LRC",
+            "delay": 33.87183544303797
+        },
+        {
+            "station": "FUL",
+            "delay": 34.118110236220474
+        },
+        {
+            "station": "SNB",
+            "delay": 34.63667232597623
+        },
+        {
+            "station": "BAR",
+            "delay": 36.15649452269171
+        },
+        {
+            "station": "RIV",
+            "delay": 36.53448275862069
+        },
+        {
+            "station": "NEW",
+            "delay": 36.82861635220126
+        },
+        {
+            "station": "VRV",
+            "delay": 36.97959183673469
+        },
+        {
+            "station": "LMR",
+            "delay": 37.861635220125784
+        },
+        {
+            "station": "RAT",
+            "delay": 38.0641627543036
+        },
+        {
+            "station": "HUT",
+            "delay": 38.71632329635499
+        },
+        {
+            "station": "DDG",
+            "delay": 38.79245283018868
+        },
+        {
+            "station": "GCK",
+            "delay": 38.905660377358494
+        },
+        {
+            "station": "LSV",
+            "delay": 40.220657276995304
+        },
+        {
+            "station": "TRI",
+            "delay": 40.5125
+        },
+        {
+            "station": "LMY",
+            "delay": 40.810641627543035
+        },
+        {
+            "station": "GLP",
+            "delay": 43.21909233176839
+        },
+        {
+            "station": "WLO",
+            "delay": 44.748822605965465
+        },
+        {
+            "station": "FLG",
+            "delay": 45.407523510971785
+        },
+        {
+            "station": "KNG",
+            "delay": 50.320251177394034
+        },
+        {
+            "station": "NDL",
+            "delay": 51.658841940532085
+        }
+    ],
+    "destination_delay": [{
+            "station": "KCY",
+            "delay": 23.571875
+        },
+        {
+            "station": "ABQ",
+            "delay": 26.73155416012559
+        },
+        {
+            "station": "GBB",
+            "delay": 30.1198738170347
+        },
+        {
+            "station": "LAJ",
+            "delay": 32.55102040816327
+        },
+        {
+            "station": "DDG",
+            "delay": 35.867924528301884
+        },
+        {
+            "station": "CHI",
+            "delay": 40.661442006269596
+        },
+        {
+            "station": "LMY",
+            "delay": 41.39749608763693
+        },
+        {
+            "station": "FLG",
+            "delay": 44.308777429467085
+        },
+        {
+            "station": "LAX",
+            "delay": 45.29780564263323
+        },
+        {
+            "station": "KNG",
+            "delay": 46.32182103610675
+        },
+        {
+            "station": "NEW",
+            "delay": 65.79245283018868
+        }
+    ]
+},
+{
+    "train": "Winter Park Express",
+    "source_delay": [{
+            "station": "DEN",
+            "delay": 4.103448275862069
+        },
+        {
+            "station": "WPR",
+            "delay": 8.533333333333333
+        }
+    ],
+    "destination_delay": [{
+            "station": "WPR",
+            "delay": 7.724137931034483
+        },
+        {
+            "station": "DEN",
+            "delay": 24.666666666666668
+        }
+    ]
+},
+{
+    "train": "Empire Builder",
+    "source_delay": [{
+            "station": "CHI",
+            "delay": 2.015527950310559
+        },
+        {
+            "station": "SEA",
+            "delay": 5.651162790697675
+        },
+        {
+            "station": "SPK",
+            "delay": 15.446280991735538
+        },
+        {
+            "station": "MKA",
+            "delay": 18.351063829787233
+        },
+        {
+            "station": "SVT",
+            "delay": 19.052910052910054
+        },
+        {
+            "station": "EDM",
+            "delay": 21.534172661870503
+        },
+        {
+            "station": "GPK",
+            "delay": 23.553459119496857
+        },
+        {
+            "station": "EVR",
+            "delay": 23.71107266435986
+        },
+        {
+            "station": "SBY",
+            "delay": 24.166129032258066
+        },
+        {
+            "station": "WEN",
+            "delay": 24.243243243243242
+        },
+        {
+            "station": "WFH",
+            "delay": 24.949685534591193
+        },
+        {
+            "station": "MSP",
+            "delay": 26.07511737089202
+        },
+        {
+            "station": "LWA",
+            "delay": 26.117147707979626
+        },
+        {
+            "station": "MKE",
+            "delay": 26.33125
+        },
+        {
+            "station": "EPH",
+            "delay": 26.559380378657487
+        },
+        {
+            "station": "WGL",
+            "delay": 27.485179407176286
+        },
+        {
+            "station": "CUT",
+            "delay": 27.931357254290173
+        },
+        {
+            "station": "ESM",
+            "delay": 28.816614420062695
+        },
+        {
+            "station": "CBS",
+            "delay": 29.230647709320696
+        },
+        {
+            "station": "GLN",
+            "delay": 29.24175824175824
+        },
+        {
+            "station": "POG",
+            "delay": 29.7703125
+        },
+        {
+            "station": "LSE",
+            "delay": 30.486780715396577
+        },
+        {
+            "station": "LIB",
+            "delay": 30.6503937007874
+        },
+        {
+            "station": "WDL",
+            "delay": 30.79251170046802
+        },
+        {
+            "station": "SPT",
+            "delay": 31.29763779527559
+        },
+        {
+            "station": "WIN",
+            "delay": 32.30373831775701
+        },
+        {
+            "station": "TOH",
+            "delay": 32.42056074766355
+        },
+        {
+            "station": "BRO",
+            "delay": 32.75079872204473
+        },
+        {
+            "station": "HAV",
+            "delay": 33.478125
+        },
+        {
+            "station": "MOT",
+            "delay": 34.2402496099844
+        },
+        {
+            "station": "MAL",
+            "delay": 34.5703125
+        },
+        {
+            "station": "RDW",
+            "delay": 34.7397476340694
+        },
+        {
+            "station": "GGW",
+            "delay": 39.01090342679128
+        },
+        {
+            "station": "FAR",
+            "delay": 39.38933764135703
+        },
+        {
+            "station": "GFK",
+            "delay": 39.61671924290221
+        },
+        {
+            "station": "SPL",
+            "delay": 39.62558502340094
+        },
+        {
+            "station": "DLK",
+            "delay": 40.3421875
+        },
+        {
+            "station": "WPT",
+            "delay": 40.36505460218409
+        },
+        {
+            "station": "DVL",
+            "delay": 40.67401574803149
+        },
+        {
+            "station": "RUG",
+            "delay": 40.81191222570533
+        },
+        {
+            "station": "SCD",
+            "delay": 41.27725856697819
+        },
+        {
+            "station": "WTN",
+            "delay": 42.499219968798755
+        },
+        {
+            "station": "STN",
+            "delay": 43.051886792452834
+        }
+    ],
+    "destination_delay": [{
+            "station": "SPK",
+            "delay": 12.697019867549669
+        },
+        {
+            "station": "SEA",
+            "delay": 18.054054054054053
+        },
+        {
+            "station": "SBY",
+            "delay": 22.97741935483871
+        },
+        {
+            "station": "WEN",
+            "delay": 23.68412162162162
+        },
+        {
+            "station": "MOT",
+            "delay": 26.241809672386896
+        },
+        {
+            "station": "WFH",
+            "delay": 27.733858267716535
+        },
+        {
+            "station": "MKE",
+            "delay": 27.8078125
+        },
+        {
+            "station": "MSP",
+            "delay": 28.30359937402191
+        },
+        {
+            "station": "WIN",
+            "delay": 30.39252336448598
+        },
+        {
+            "station": "HAV",
+            "delay": 39.153125
+        },
+        {
+            "station": "CHI",
+            "delay": 42.796875
+        }
+    ]
+},
+{
+    "train": "Coast Starlight",
+    "source_delay": [{
+            "station": "SEA",
+            "delay": 2.4150943396226414
+        },
+        {
+            "station": "LAX",
+            "delay": 3.3821656050955413
+        },
+        {
+            "station": "VNC",
+            "delay": 9.77652733118971
+        },
+        {
+            "station": "BUR",
+            "delay": 9.927392739273927
+        },
+        {
+            "station": "SIM",
+            "delay": 11.683606557377049
+        },
+        {
+            "station": "OXN",
+            "delay": 12.780998389694043
+        },
+        {
+            "station": "SLO",
+            "delay": 13.089314194577353
+        },
+        {
+            "station": "SBA",
+            "delay": 14.456869009584665
+        },
+        {
+            "station": "SJC",
+            "delay": 17.22044728434505
+        },
+        {
+            "station": "PDX",
+            "delay": 17.656200941915227
+        },
+        {
+            "station": "OKJ",
+            "delay": 17.92721518987342
+        },
+        {
+            "station": "KFS",
+            "delay": 18.070643642072213
+        },
+        {
+            "station": "EMY",
+            "delay": 18.426332288401255
+        },
+        {
+            "station": "PRB",
+            "delay": 19.5664
+        },
+        {
+            "station": "MTZ",
+            "delay": 20.99843260188088
+        },
+        {
+            "station": "SNS",
+            "delay": 21.40988835725678
+        },
+        {
+            "station": "DAV",
+            "delay": 21.962382445141067
+        },
+        {
+            "station": "TAC",
+            "delay": 22.194577352472088
+        },
+        {
+            "station": "OLW",
+            "delay": 22.844690966719494
+        },
+        {
+            "station": "VAN",
+            "delay": 22.871835443037973
+        },
+        {
+            "station": "SAC",
+            "delay": 23.178683385579937
+        },
+        {
+            "station": "CTL",
+            "delay": 23.2626582278481
+        },
+        {
+            "station": "KEL",
+            "delay": 24.90378548895899
+        },
+        {
+            "station": "CMO",
+            "delay": 28.017241379310345
+        },
+        {
+            "station": "CIC",
+            "delay": 29.25862068965517
+        },
+        {
+            "station": "DUN",
+            "delay": 29.721259842519686
+        },
+        {
+            "station": "EUG",
+            "delay": 30.49056603773585
+        },
+        {
+            "station": "RDD",
+            "delay": 32.75196232339089
+        },
+        {
+            "station": "ALY",
+            "delay": 32.79874213836478
+        },
+        {
+            "station": "SLM",
+            "delay": 33.20472440944882
+        }
+    ],
+    "destination_delay": [{
+            "station": "SLO",
+            "delay": 12.16267942583732
+        },
+        {
+            "station": "LAX",
+            "delay": 13.527508090614887
+        },
+        {
+            "station": "SAC",
+            "delay": 15.051724137931034
+        },
+        {
+            "station": "SBA",
+            "delay": 15.148562300319488
+        },
+        {
+            "station": "KFS",
+            "delay": 15.540031397174255
+        },
+        {
+            "station": "SJC",
+            "delay": 16.44888178913738
+        },
+        {
+            "station": "MTZ",
+            "delay": 17.54858934169279
+        },
+        {
+            "station": "PDX",
+            "delay": 18.502354788069074
+        },
+        {
+            "station": "OKJ",
+            "delay": 18.538950715421304
+        },
+        {
+            "station": "EMY",
+            "delay": 18.938871473354233
+        },
+        {
+            "station": "SEA",
+            "delay": 25.84713375796178
+        },
+        {
+            "station": "EUG",
+            "delay": 29.87421383647799
+        }
+    ]
+},
+{
+    "train": "Empire Builder - Portland Section",
+    "source_delay": [{
+            "station": "PDX",
+            "delay": 4.789808917197452
+        },
+        {
+            "station": "SPK",
+            "delay": 14.550488599348535
+        },
+        {
+            "station": "VAN",
+            "delay": 20.783739837398375
+        },
+        {
+            "station": "WIH",
+            "delay": 22.18032786885246
+        },
+        {
+            "station": "BNG",
+            "delay": 22.417763157894736
+        },
+        {
+            "station": "PSC",
+            "delay": 24.274061990212072
+        }
+    ],
+    "destination_delay": [{
+            "station": "SPK",
+            "delay": 12.925566343042071
+        },
+        {
+            "station": "PDX",
+            "delay": 16.40453074433657
+        },
+        {
+            "station": "PSC",
+            "delay": 24.278955954323003
+        }
+    ]
+},
+{
+    "train": "City of New Orleans",
+    "source_delay": [{
+            "station": "NOL",
+            "delay": 0.25547445255474455
+        },
+        {
+            "station": "CHI",
+            "delay": 1.5
+        },
+        {
+            "station": "JAN",
+            "delay": 8.7893864013267
+        },
+        {
+            "station": "MEM",
+            "delay": 10.42668863261944
+        },
+        {
+            "station": "HMW",
+            "delay": 13.090680100755668
+        },
+        {
+            "station": "CHM",
+            "delay": 13.88888888888889
+        },
+        {
+            "station": "KKI",
+            "delay": 14.280405405405405
+        },
+        {
+            "station": "YAZ",
+            "delay": 15.088777219430487
+        },
+        {
+            "station": "CDL",
+            "delay": 15.455445544554456
+        },
+        {
+            "station": "MAT",
+            "delay": 15.617747440273037
+        },
+        {
+            "station": "CEN",
+            "delay": 15.917089678510997
+        },
+        {
+            "station": "MKS",
+            "delay": 15.926544240400668
+        },
+        {
+            "station": "EFG",
+            "delay": 16.06081081081081
+        },
+        {
+            "station": "GWD",
+            "delay": 16.504950495049506
+        },
+        {
+            "station": "HAZ",
+            "delay": 17.384615384615383
+        },
+        {
+            "station": "HMD",
+            "delay": 18.211009174311926
+        },
+        {
+            "station": "MCB",
+            "delay": 18.313274336283186
+        },
+        {
+            "station": "FTN",
+            "delay": 19.04
+        },
+        {
+            "station": "BRH",
+            "delay": 19.08317929759704
+        },
+        {
+            "station": "NBN",
+            "delay": 19.154228855721392
+        }
+    ],
+    "destination_delay": [{
+            "station": "NOL",
+            "delay": 6.44
+        },
+        {
+            "station": "JAN",
+            "delay": 7.786069651741293
+        },
+        {
+            "station": "MEM",
+            "delay": 9.886326194398682
+        },
+        {
+            "station": "MCB",
+            "delay": 11.973821989528796
+        },
+        {
+            "station": "CDL",
+            "delay": 12.707920792079207
+        },
+        {
+            "station": "CHI",
+            "delay": 13.403333333333334
+        },
+        {
+            "station": "GWD",
+            "delay": 13.442244224422442
+        }
+    ]
+},
+{
+    "train": "California Zephyr",
+    "source_delay": [{
+            "station": "CHI",
+            "delay": 3.1265822784810124
+        },
+        {
+            "station": "EMY",
+            "delay": 7.627906976744186
+        },
+        {
+            "station": "RIC",
+            "delay": 28.389455782312925
+        },
+        {
+            "station": "DAV",
+            "delay": 30.858131487889274
+        },
+        {
+            "station": "MTZ",
+            "delay": 31.859766277128546
+        },
+        {
+            "station": "SAC",
+            "delay": 33.18333333333333
+        },
+        {
+            "station": "NPV",
+            "delay": 35.68547008547009
+        },
+        {
+            "station": "GBB",
+            "delay": 37.75974025974026
+        },
+        {
+            "station": "OMA",
+            "delay": 38.920760697305866
+        },
+        {
+            "station": "PCT",
+            "delay": 40.76637554585153
+        },
+        {
+            "station": "GJT",
+            "delay": 43.98458904109589
+        },
+        {
+            "station": "DEN",
+            "delay": 44.66339869281046
+        },
+        {
+            "station": "BRL",
+            "delay": 44.819699499165274
+        },
+        {
+            "station": "WNN",
+            "delay": 44.95695364238411
+        },
+        {
+            "station": "OTM",
+            "delay": 45.27892234548336
+        },
+        {
+            "station": "OSC",
+            "delay": 46.37559429477021
+        },
+        {
+            "station": "CRN",
+            "delay": 46.73851030110935
+        },
+        {
+            "station": "ELK",
+            "delay": 46.82890365448505
+        },
+        {
+            "station": "HLD",
+            "delay": 49.646511627906975
+        },
+        {
+            "station": "RSV",
+            "delay": 49.66
+        },
+        {
+            "station": "RNO",
+            "delay": 49.916666666666664
+        },
+        {
+            "station": "MTP",
+            "delay": 49.98945518453427
+        },
+        {
+            "station": "SLC",
+            "delay": 51.0865224625624
+        },
+        {
+            "station": "LNK",
+            "delay": 52.799050632911396
+        },
+        {
+            "station": "GRI",
+            "delay": 52.86101694915254
+        },
+        {
+            "station": "WIP",
+            "delay": 53.48122866894198
+        },
+        {
+            "station": "COX",
+            "delay": 53.585284280936456
+        },
+        {
+            "station": "GSC",
+            "delay": 53.59760273972603
+        },
+        {
+            "station": "PRO",
+            "delay": 54.1156462585034
+        },
+        {
+            "station": "FMG",
+            "delay": 54.353968253968254
+        },
+        {
+            "station": "HER",
+            "delay": 54.69439728353141
+        },
+        {
+            "station": "HAS",
+            "delay": 55.215873015873015
+        },
+        {
+            "station": "MCK",
+            "delay": 55.24247226624406
+        },
+        {
+            "station": "GRA",
+            "delay": 55.310580204778155
+        },
+        {
+            "station": "TRU",
+            "delay": 55.59030100334448
+        }
+    ],
+    "destination_delay": [{
+            "station": "MTZ",
+            "delay": 31.709515859766277
+        },
+        {
+            "station": "SAC",
+            "delay": 33.08166666666666
+        },
+        {
+            "station": "GBB",
+            "delay": 35.535714285714285
+        },
+        {
+            "station": "DEN",
+            "delay": 35.58443708609271
+        },
+        {
+            "station": "OMA",
+            "delay": 38.26307448494453
+        },
+        {
+            "station": "GJT",
+            "delay": 41.68835616438356
+        },
+        {
+            "station": "ELK",
+            "delay": 43.36046511627907
+        },
+        {
+            "station": "SLC",
+            "delay": 43.42928452579035
+        },
+        {
+            "station": "OTM",
+            "delay": 43.44215530903328
+        },
+        {
+            "station": "RNO",
+            "delay": 47.998333333333335
+        },
+        {
+            "station": "LNK",
+            "delay": 49.335443037974684
+        },
+        {
+            "station": "DAV",
+            "delay": 52.84476534296029
+        },
+        {
+            "station": "CHI",
+            "delay": 53.22539682539683
+        },
+        {
+            "station": "EMY",
+            "delay": 61
+        },
+        {
+            "station": "RSV",
+            "delay": 86.7190635451505
+        }
+    ]
+},
+{
+    "train": "Northeast Regional",
+    "source_delay": [{
+            "station": "RVR",
+            "delay": 0
+        },
+        {
+            "station": "PTB",
+            "delay": 0
+        },
+        {
+            "station": "WAS",
+            "delay": 0.6721854304635762
+        },
+        {
+            "station": "BOS",
+            "delay": 1.0920679886685551
+        },
+        {
+            "station": "FBG",
+            "delay": 2
+        },
+        {
+            "station": "BBY",
+            "delay": 2.759304207119741
+        },
+        {
+            "station": "NYP",
+            "delay": 2.8784548784548782
+        },
+        {
+            "station": "PHN",
+            "delay": 2.9128205128205127
+        },
+        {
+            "station": "RTE",
+            "delay": 2.9842995169082127
+        },
+        {
+            "station": "ALX",
+            "delay": 3
+        },
+        {
+            "station": "PJC",
+            "delay": 3.4877675840978593
+        },
+        {
+            "station": "NBK",
+            "delay": 3.901554404145078
+        },
+        {
+            "station": "ASD",
+            "delay": 4
+        },
+        {
+            "station": "NWK",
+            "delay": 4.321811361200429
+        },
+        {
+            "station": "PHL",
+            "delay": 4.442564802182811
+        },
+        {
+            "station": "QAN",
+            "delay": 4.5
+        },
+        {
+            "station": "MET",
+            "delay": 4.578451882845188
+        },
+        {
+            "station": "KIN",
+            "delay": 4.618415761962203
+        },
+        {
+            "station": "NHV",
+            "delay": 4.797902379991932
+        },
+        {
+            "station": "BAL",
+            "delay": 4.801128728836335
+        },
+        {
+            "station": "TRE",
+            "delay": 4.858095815645846
+        },
+        {
+            "station": "NLC",
+            "delay": 4.905106554081223
+        },
+        {
+            "station": "OSB",
+            "delay": 4.953817733990148
+        },
+        {
+            "station": "BWI",
+            "delay": 5.044426494345719
+        },
+        {
+            "station": "MYS",
+            "delay": 5.190184049079755
+        },
+        {
+            "station": "WLY",
+            "delay": 5.262719703977798
+        },
+        {
+            "station": "PVD",
+            "delay": 5.380281690140845
+        },
+        {
+            "station": "EWR",
+            "delay": 5.431079894644425
+        },
+        {
+            "station": "ABE",
+            "delay": 5.8001800180018
+        },
+        {
+            "station": "BRP",
+            "delay": 6.16147455867082
+        },
+        {
+            "station": "NCR",
+            "delay": 6.281027545651501
+        },
+        {
+            "station": "STM",
+            "delay": 6.852941176470588
+        },
+        {
+            "station": "NRO",
+            "delay": 7.202655889145497
+        },
+        {
+            "station": "WIL",
+            "delay": 7.270509383378016
+        },
+        {
+            "station": "NRK",
+            "delay": 8.514134275618375
+        }
+    ],
+    "destination_delay": [{
+            "station": "RVR",
+            "delay": 0
+        },
+        {
+            "station": "NFK",
+            "delay": 0
+        },
+        {
+            "station": "MET",
+            "delay": 3
+        },
+        {
+            "station": "NWK",
+            "delay": 3.9225789047747504
+        },
+        {
+            "station": "NHV",
+            "delay": 4.0209762000806775
+        },
+        {
+            "station": "NYP",
+            "delay": 4.43528313627878
+        },
+        {
+            "station": "PHL",
+            "delay": 4.525655021834061
+        },
+        {
+            "station": "BAL",
+            "delay": 4.7518427518427515
+        },
+        {
+            "station": "TRE",
+            "delay": 4.7603333333333335
+        },
+        {
+            "station": "PVD",
+            "delay": 4.8024144869215295
+        },
+        {
+            "station": "BOS",
+            "delay": 4.941449814126394
+        },
+        {
+            "station": "WIL",
+            "delay": 5.675565241078725
+        },
+        {
+            "station": "WAS",
+            "delay": 5.723348933957358
+        }
+    ]
+},
+{
+    "train": "Northeast Regional Extra",
+    "source_delay": [{
+            "station": "RTE",
+            "delay": 0
+        },
+        {
+            "station": "PVD",
+            "delay": 0
+        },
+        {
+            "station": "MYS",
+            "delay": 0
+        },
+        {
+            "station": "NHV",
+            "delay": 0
+        },
+        {
+            "station": "MET",
+            "delay": 0
+        },
+        {
+            "station": "TRE",
+            "delay": 0
+        },
+        {
+            "station": "PHL",
+            "delay": 0
+        },
+        {
+            "station": "BAL",
+            "delay": 0
+        },
+        {
+            "station": "BWI",
+            "delay": 0
+        },
+        {
+            "station": "BOS",
+            "delay": 1
+        },
+        {
+            "station": "BBY",
+            "delay": 1
+        },
+        {
+            "station": "NWK",
+            "delay": 1
+        },
+        {
+            "station": "WIL",
+            "delay": 1
+        },
+        {
+            "station": "NCR",
+            "delay": 1
+        },
+        {
+            "station": "NLC",
+            "delay": 2
+        },
+        {
+            "station": "NYP",
+            "delay": 2
+        },
+        {
+            "station": "OSB",
+            "delay": 3
+        }
+    ],
+    "destination_delay": [{
+            "station": "NHV",
+            "delay": 0
+        },
+        {
+            "station": "PHL",
+            "delay": 0
+        },
+        {
+            "station": "WAS",
+            "delay": 0
+        },
+        {
+            "station": "NYP",
+            "delay": 13
+        }
+    ]
+},
+{
+    "train": "Northeast Regional - Virginia",
+    "source_delay": [{
+            "station": "RNK",
+            "delay": 0.3489010989010989
+        },
+        {
+            "station": "NFK",
+            "delay": 0.5478615071283096
+        },
+        {
+            "station": "NPN",
+            "delay": 0.5526802218114603
+        },
+        {
+            "station": "BOS",
+            "delay": 0.9757575757575757
+        },
+        {
+            "station": "BBY",
+            "delay": 3.371839581517001
+        },
+        {
+            "station": "NYP",
+            "delay": 3.528143274853801
+        },
+        {
+            "station": "RTE",
+            "delay": 3.540130151843818
+        },
+        {
+            "station": "MYS",
+            "delay": 4.4702222222222225
+        },
+        {
+            "station": "NHV",
+            "delay": 4.740901213171577
+        },
+        {
+            "station": "WAS",
+            "delay": 4.998301630434782
+        },
+        {
+            "station": "OSB",
+            "delay": 5.289487585842578
+        },
+        {
+            "station": "PHL",
+            "delay": 5.460681741478232
+        },
+        {
+            "station": "BAL",
+            "delay": 5.576756576756576
+        },
+        {
+            "station": "BWI",
+            "delay": 5.6278683072830065
+        },
+        {
+            "station": "KIN",
+            "delay": 5.658293633607622
+        },
+        {
+            "station": "WLY",
+            "delay": 5.73300370828183
+        },
+        {
+            "station": "NWK",
+            "delay": 5.7470039946737685
+        },
+        {
+            "station": "PVD",
+            "delay": 5.799132321041215
+        },
+        {
+            "station": "MET",
+            "delay": 6.07831762146483
+        },
+        {
+            "station": "TRE",
+            "delay": 6.301629531094114
+        },
+        {
+            "station": "NLC",
+            "delay": 6.399392888117953
+        },
+        {
+            "station": "NCR",
+            "delay": 6.470744680851064
+        },
+        {
+            "station": "EWR",
+            "delay": 6.838487972508591
+        },
+        {
+            "station": "NRO",
+            "delay": 6.903790087463557
+        },
+        {
+            "station": "PJC",
+            "delay": 7.106719367588933
+        },
+        {
+            "station": "BRP",
+            "delay": 7.224151539068666
+        },
+        {
+            "station": "NBK",
+            "delay": 7.313492063492063
+        },
+        {
+            "station": "WIL",
+            "delay": 7.379241516966068
+        },
+        {
+            "station": "ALX",
+            "delay": 7.436869565217392
+        },
+        {
+            "station": "STM",
+            "delay": 7.911140008669268
+        },
+        {
+            "station": "RVR",
+            "delay": 8.020417633410673
+        },
+        {
+            "station": "ABE",
+            "delay": 8.190298507462687
+        },
+        {
+            "station": "CVS",
+            "delay": 8.193811074918568
+        },
+        {
+            "station": "LYH",
+            "delay": 8.3371335504886
+        },
+        {
+            "station": "WDB",
+            "delay": 8.522270742358078
+        },
+        {
+            "station": "CLP",
+            "delay": 8.6481178396072
+        },
+        {
+            "station": "PTB",
+            "delay": 8.73465140478668
+        },
+        {
+            "station": "NRK",
+            "delay": 8.763076923076923
+        },
+        {
+            "station": "WBG",
+            "delay": 9.13519313304721
+        },
+        {
+            "station": "MSS",
+            "delay": 9.315359477124183
+        },
+        {
+            "station": "BCV",
+            "delay": 9.424590163934425
+        },
+        {
+            "station": "FBG",
+            "delay": 9.446412754650133
+        },
+        {
+            "station": "QAN",
+            "delay": 9.886081560283689
+        },
+        {
+            "station": "RVM",
+            "delay": 10.495837187789084
+        },
+        {
+            "station": "ASD",
+            "delay": 10.792477876106195
+        }
+    ],
+    "destination_delay": [{
+            "station": "NHV",
+            "delay": 4.633015597920277
+        },
+        {
+            "station": "BOS",
+            "delay": 4.713307984790874
+        },
+        {
+            "station": "PVD",
+            "delay": 5.2
+        },
+        {
+            "station": "BAL",
+            "delay": 5.386946386946387
+        },
+        {
+            "station": "NWK",
+            "delay": 5.5029960053262315
+        },
+        {
+            "station": "NYP",
+            "delay": 5.753810082063306
+        },
+        {
+            "station": "PHL",
+            "delay": 5.805939925750928
+        },
+        {
+            "station": "WAS",
+            "delay": 5.973693201229929
+        },
+        {
+            "station": "TRE",
+            "delay": 6.0994346524775525
+        },
+        {
+            "station": "WIL",
+            "delay": 6.8250166333998665
+        },
+        {
+            "station": "CVS",
+            "delay": 7.237785016286645
+        },
+        {
+            "station": "RVR",
+            "delay": 8.547486033519553
+        },
+        {
+            "station": "MET",
+            "delay": 9.7
+        },
+        {
+            "station": "NPN",
+            "delay": 10.291512915129152
+        },
+        {
+            "station": "NFK",
+            "delay": 11.195744680851064
+        },
+        {
+            "station": "RNK",
+            "delay": 17.88755020080321
+        }
+    ]
+},
+{
+    "train": "Northeast Regional - Springfield",
+    "source_delay": [{
+            "station": "SPG",
+            "delay": 0.16487455197132617
+        },
+        {
+            "station": "WAS",
+            "delay": 1.0346534653465347
+        },
+        {
+            "station": "NYP",
+            "delay": 4.705014749262537
+        },
+        {
+            "station": "BAL",
+            "delay": 4.767304860088365
+        },
+        {
+            "station": "PHL",
+            "delay": 4.820588235294117
+        },
+        {
+            "station": "BWI",
+            "delay": 5.036496350364963
+        },
+        {
+            "station": "ABE",
+            "delay": 5.181818181818182
+        },
+        {
+            "station": "NWK",
+            "delay": 5.263543191800879
+        },
+        {
+            "station": "EWR",
+            "delay": 5.671779141104294
+        },
+        {
+            "station": "NCR",
+            "delay": 5.7912408759124085
+        },
+        {
+            "station": "MET",
+            "delay": 5.954612005856515
+        },
+        {
+            "station": "TRE",
+            "delay": 6.503660322108345
+        },
+        {
+            "station": "WIL",
+            "delay": 6.8179148311306905
+        },
+        {
+            "station": "NBK",
+            "delay": 7.071428571428571
+        },
+        {
+            "station": "PJC",
+            "delay": 7.366666666666666
+        },
+        {
+            "station": "BRP",
+            "delay": 7.856702619414484
+        },
+        {
+            "station": "NRO",
+            "delay": 7.930780559646539
+        },
+        {
+            "station": "NHV",
+            "delay": 8.008941877794337
+        },
+        {
+            "station": "STM",
+            "delay": 8.38179148311307
+        },
+        {
+            "station": "STS",
+            "delay": 8.813333333333333
+        },
+        {
+            "station": "HFD",
+            "delay": 8.844674556213018
+        },
+        {
+            "station": "WNL",
+            "delay": 8.908148148148149
+        },
+        {
+            "station": "WFD",
+            "delay": 9.141802067946823
+        },
+        {
+            "station": "WND",
+            "delay": 9.153618906942393
+        },
+        {
+            "station": "MDN",
+            "delay": 9.382570162481537
+        },
+        {
+            "station": "BER",
+            "delay": 9.768094534711965
+        }
+    ],
+    "destination_delay": [{
+            "station": "BAL",
+            "delay": 4.745213549337261
+        },
+        {
+            "station": "NWK",
+            "delay": 4.913616398243045
+        },
+        {
+            "station": "WAS",
+            "delay": 5.04270462633452
+        },
+        {
+            "station": "NYP",
+            "delay": 5.3460972017673045
+        },
+        {
+            "station": "PHL",
+            "delay": 5.694117647058824
+        },
+        {
+            "station": "WIL",
+            "delay": 6.130690161527166
+        },
+        {
+            "station": "TRE",
+            "delay": 6.5300146412884335
+        },
+        {
+            "station": "NHV",
+            "delay": 7.077265973254086
+        },
+        {
+            "station": "SPG",
+            "delay": 9.928934010152284
+        }
+    ]
+},
+{
+    "train": "Northeast Regional - Springfield, Virginia",
+    "source_delay": [{
+            "station": "SPG",
+            "delay": 0.4380165289256198
+        },
+        {
+            "station": "NYP",
+            "delay": 0.588957055214724
+        },
+        {
+            "station": "NWK",
+            "delay": 0.7804878048780488
+        },
+        {
+            "station": "EWR",
+            "delay": 1.6585365853658536
+        },
+        {
+            "station": "MET",
+            "delay": 2.2580645161290325
+        },
+        {
+            "station": "TRE",
+            "delay": 2.298780487804878
+        },
+        {
+            "station": "PHL",
+            "delay": 2.7975460122699385
+        },
+        {
+            "station": "BAL",
+            "delay": 3.294478527607362
+        },
+        {
+            "station": "BWI",
+            "delay": 4.158536585365853
+        },
+        {
+            "station": "NCR",
+            "delay": 4.487804878048781
+        },
+        {
+            "station": "WAS",
+            "delay": 4.571428571428571
+        },
+        {
+            "station": "RVR",
+            "delay": 4.6923076923076925
+        },
+        {
+            "station": "WIL",
+            "delay": 5.195121951219512
+        },
+        {
+            "station": "QAN",
+            "delay": 5.269230769230769
+        },
+        {
+            "station": "FBG",
+            "delay": 5.461538461538462
+        },
+        {
+            "station": "WDB",
+            "delay": 5.5
+        },
+        {
+            "station": "WNL",
+            "delay": 5.683333333333334
+        },
+        {
+            "station": "WND",
+            "delay": 5.735537190082645
+        },
+        {
+            "station": "NRO",
+            "delay": 6.008474576271187
+        },
+        {
+            "station": "PTB",
+            "delay": 6.3076923076923075
+        },
+        {
+            "station": "NHV",
+            "delay": 6.390243902439025
+        },
+        {
+            "station": "WFD",
+            "delay": 6.43801652892562
+        },
+        {
+            "station": "HFD",
+            "delay": 6.975206611570248
+        },
+        {
+            "station": "MDN",
+            "delay": 7.033057851239669
+        },
+        {
+            "station": "BER",
+            "delay": 7.132231404958677
+        },
+        {
+            "station": "LYH",
+            "delay": 7.254385964912281
+        },
+        {
+            "station": "CVS",
+            "delay": 7.307017543859649
+        },
+        {
+            "station": "ALX",
+            "delay": 7.4
+        },
+        {
+            "station": "STS",
+            "delay": 7.773109243697479
+        },
+        {
+            "station": "STM",
+            "delay": 8.121951219512194
+        },
+        {
+            "station": "MSS",
+            "delay": 8.62280701754386
+        },
+        {
+            "station": "BRP",
+            "delay": 8.959677419354838
+        },
+        {
+            "station": "ASD",
+            "delay": 9.038461538461538
+        },
+        {
+            "station": "BCV",
+            "delay": 9.289473684210526
+        },
+        {
+            "station": "CLP",
+            "delay": 9.43859649122807
+        }
+    ],
+    "destination_delay": [{
+            "station": "NWK",
+            "delay": 0.5792682926829268
+        },
+        {
+            "station": "TRE",
+            "delay": 2.1219512195121952
+        },
+        {
+            "station": "WAS",
+            "delay": 2.558282208588957
+        },
+        {
+            "station": "NYP",
+            "delay": 2.778688524590164
+        },
+        {
+            "station": "PHL",
+            "delay": 2.9263803680981595
+        },
+        {
+            "station": "BAL",
+            "delay": 3.067484662576687
+        },
+        {
+            "station": "WIL",
+            "delay": 5.109756097560975
+        },
+        {
+            "station": "RVR",
+            "delay": 5.384615384615385
+        },
+        {
+            "station": "CVS",
+            "delay": 5.815789473684211
+        },
+        {
+            "station": "NFK",
+            "delay": 5.923076923076923
+        },
+        {
+            "station": "NHV",
+            "delay": 6.553719008264463
+        },
+        {
+            "station": "RNK",
+            "delay": 9.517543859649123
+        }
+    ]
+},
+{
+    "train": "Pacific Surfliner",
+    "source_delay": [{
+            "station": "SLO",
+            "delay": 0.376657824933687
+        },
+        {
+            "station": "SAN",
+            "delay": 2.103660886319846
+        },
+        {
+            "station": "LAX",
+            "delay": 3.344147417596678
+        },
+        {
+            "station": "MPK",
+            "delay": 5.264233576642336
+        },
+        {
+            "station": "SOL",
+            "delay": 5.460462405284632
+        },
+        {
+            "station": "OSD",
+            "delay": 5.541279069767442
+        },
+        {
+            "station": "IRV",
+            "delay": 5.678713339640492
+        },
+        {
+            "station": "SNC",
+            "delay": 5.879327016051054
+        },
+        {
+            "station": "SNA",
+            "delay": 5.96413972500929
+        },
+        {
+            "station": "ANA",
+            "delay": 6.054840514829323
+        },
+        {
+            "station": "FUL",
+            "delay": 6.3417132216014895
+        },
+        {
+            "station": "OLT",
+            "delay": 6.757896968412126
+        },
+        {
+            "station": "GTA",
+            "delay": 6.798212005108557
+        },
+        {
+            "station": "SNP",
+            "delay": 7.518386714116252
+        },
+        {
+            "station": "VNC",
+            "delay": 7.596071733561059
+        },
+        {
+            "station": "GDL",
+            "delay": 7.8554987212276215
+        },
+        {
+            "station": "CWT",
+            "delay": 7.964560204953032
+        },
+        {
+            "station": "BUR",
+            "delay": 8.059199318568995
+        },
+        {
+            "station": "SIM",
+            "delay": 8.154766994442069
+        },
+        {
+            "station": "SBA",
+            "delay": 9.233480176211454
+        },
+        {
+            "station": "CML",
+            "delay": 9.684486373165619
+        },
+        {
+            "station": "CPN",
+            "delay": 9.810548523206752
+        },
+        {
+            "station": "VEC",
+            "delay": 9.947279628848587
+        },
+        {
+            "station": "OXN",
+            "delay": 10.394569367840475
+        },
+        {
+            "station": "GVB",
+            "delay": 11.998664886515353
+        },
+        {
+            "station": "GUA",
+            "delay": 12.844
+        },
+        {
+            "station": "LPS",
+            "delay": 13.676
+        }
+    ],
+    "destination_delay": [{
+            "station": "CWT",
+            "delay": 3.8284313725490198
+        },
+        {
+            "station": "IRV",
+            "delay": 4.79736147757256
+        },
+        {
+            "station": "LAX",
+            "delay": 5.78335056876939
+        },
+        {
+            "station": "OSD",
+            "delay": 5.884785819793206
+        },
+        {
+            "station": "SAN",
+            "delay": 5.910894941634242
+        },
+        {
+            "station": "SBA",
+            "delay": 8.855172413793104
+        },
+        {
+            "station": "OXN",
+            "delay": 8.883401920438958
+        },
+        {
+            "station": "SLO",
+            "delay": 9.051075268817204
+        },
+        {
+            "station": "GTA",
+            "delay": 9.55527950310559
+        }
+    ]
+},
+{
+    "train": "Downeaster",
+    "source_delay": [{
+            "station": "BRK",
+            "delay": 0.2088607594936709
+        },
+        {
+            "station": "BON",
+            "delay": 0.7756756756756756
+        },
+        {
+            "station": "POR",
+            "delay": 5.189275893675527
+        },
+        {
+            "station": "FRE",
+            "delay": 5.859938208032956
+        },
+        {
+            "station": "WEM",
+            "delay": 6.455288243304585
+        },
+        {
+            "station": "HHL",
+            "delay": 6.538041002277905
+        },
+        {
+            "station": "DOV",
+            "delay": 6.800453514739229
+        },
+        {
+            "station": "EXR",
+            "delay": 6.82209144409235
+        },
+        {
+            "station": "DHM",
+            "delay": 6.892419428052656
+        },
+        {
+            "station": "SAO",
+            "delay": 6.989748369058714
+        },
+        {
+            "station": "WOB",
+            "delay": 7.53359173126615
+        },
+        {
+            "station": "ORB",
+            "delay": 11.237911025145067
+        }
+    ],
+    "destination_delay": [{
+            "station": "POR",
+            "delay": 7.063372717508056
+        },
+        {
+            "station": "BRK",
+            "delay": 10.070780399274048
+        },
+        {
+            "station": "BON",
+            "delay": 12.320942883046238
+        }
+    ]
+},
+{
+    "train": "San Joaquin",
+    "source_delay": [{
+            "station": "SAC",
+            "delay": 0.8294117647058824
+        },
+        {
+            "station": "BFD",
+            "delay": 1.169632265717675
+        },
+        {
+            "station": "OKJ",
+            "delay": 1.3662337662337662
+        },
+        {
+            "station": "EMY",
+            "delay": 6.476190476190476
+        },
+        {
+            "station": "FNO",
+            "delay": 7.618880093814131
+        },
+        {
+            "station": "MDR",
+            "delay": 7.686326291079812
+        },
+        {
+            "station": "WAC",
+            "delay": 8.137336504161713
+        },
+        {
+            "station": "HNF",
+            "delay": 8.148082595870207
+        },
+        {
+            "station": "ACA",
+            "delay": 8.22922077922078
+        },
+        {
+            "station": "SKN",
+            "delay": 8.23360655737705
+        },
+        {
+            "station": "MCD",
+            "delay": 8.246257704725565
+        },
+        {
+            "station": "LOD",
+            "delay": 8.281065088757396
+        },
+        {
+            "station": "SKT",
+            "delay": 8.700296735905045
+        },
+        {
+            "station": "COC",
+            "delay": 8.990792990792992
+        },
+        {
+            "station": "MOD",
+            "delay": 9.09294777220419
+        },
+        {
+            "station": "MTZ",
+            "delay": 9.099251545720794
+        },
+        {
+            "station": "TRK",
+            "delay": 9.81060382916053
+        },
+        {
+            "station": "RIC",
+            "delay": 10.28220640569395
+        }
+    ],
+    "destination_delay": [{
+            "station": "SKT",
+            "delay": 1.5
+        },
+        {
+            "station": "MCD",
+            "delay": 1.6
+        },
+        {
+            "station": "MOD",
+            "delay": 4.880434782608695
+        },
+        {
+            "station": "EMY",
+            "delay": 6.897707231040564
+        },
+        {
+            "station": "SAC",
+            "delay": 7.264705882352941
+        },
+        {
+            "station": "FNO",
+            "delay": 7.781524926686217
+        },
+        {
+            "station": "BFD",
+            "delay": 7.868940754039497
+        },
+        {
+            "station": "WAC",
+            "delay": 7.925925925925926
+        },
+        {
+            "station": "SKN",
+            "delay": 8.02219187435985
+        },
+        {
+            "station": "COC",
+            "delay": 8.5
+        },
+        {
+            "station": "OKJ",
+            "delay": 8.872619829284307
+        },
+        {
+            "station": "MTZ",
+            "delay": 9.440937194923528
+        },
+        {
+            "station": "ACA",
+            "delay": 53
+        }
+    ]
+},
+{
+    "train": "Crescent",
+    "source_delay": [{
+            "station": "NYP",
+            "delay": 1.255591054313099
+        },
+        {
+            "station": "NOL",
+            "delay": 4.334507042253521
+        },
+        {
+            "station": "NWK",
+            "delay": 22.700320512820515
+        },
+        {
+            "station": "WAS",
+            "delay": 24.780096308186195
+        },
+        {
+            "station": "TRE",
+            "delay": 25.678513731825525
+        },
+        {
+            "station": "PHL",
+            "delay": 25.820846905537458
+        },
+        {
+            "station": "BAL",
+            "delay": 25.904306220095695
+        },
+        {
+            "station": "ALX",
+            "delay": 25.9377990430622
+        },
+        {
+            "station": "WIL",
+            "delay": 26.614035087719298
+        },
+        {
+            "station": "GRO",
+            "delay": 34.6703821656051
+        },
+        {
+            "station": "MSS",
+            "delay": 34.71610845295056
+        },
+        {
+            "station": "CLP",
+            "delay": 35.175438596491226
+        },
+        {
+            "station": "LYH",
+            "delay": 35.238853503184714
+        },
+        {
+            "station": "DAN",
+            "delay": 37.13875598086124
+        },
+        {
+            "station": "HPT",
+            "delay": 37.355095541401276
+        },
+        {
+            "station": "CVS",
+            "delay": 37.48006379585327
+        },
+        {
+            "station": "CLT",
+            "delay": 38.109872611464965
+        },
+        {
+            "station": "SAL",
+            "delay": 40.28548644338118
+        },
+        {
+            "station": "ATL",
+            "delay": 44.41989881956155
+        },
+        {
+            "station": "GRV",
+            "delay": 46.40510366826156
+        },
+        {
+            "station": "CSN",
+            "delay": 47.50638977635783
+        },
+        {
+            "station": "GAS",
+            "delay": 47.54936305732484
+        },
+        {
+            "station": "SPB",
+            "delay": 47.882165605095544
+        },
+        {
+            "station": "TCA",
+            "delay": 48.28025477707006
+        },
+        {
+            "station": "GNS",
+            "delay": 50.339171974522294
+        },
+        {
+            "station": "BHM",
+            "delay": 50.86879432624114
+        },
+        {
+            "station": "HBG",
+            "delay": 53.31028368794326
+        },
+        {
+            "station": "LAU",
+            "delay": 53.913120567375884
+        },
+        {
+            "station": "SDL",
+            "delay": 54.95390070921986
+        },
+        {
+            "station": "MEI",
+            "delay": 55.87388987566607
+        },
+        {
+            "station": "PIC",
+            "delay": 56.36879432624114
+        },
+        {
+            "station": "ATN",
+            "delay": 59.709734513274334
+        },
+        {
+            "station": "TCL",
+            "delay": 68.19858156028369
+        }
+    ],
+    "destination_delay": [{
+            "station": "WAS",
+            "delay": 22.91171749598716
+        },
+        {
+            "station": "NWK",
+            "delay": 23.440705128205128
+        },
+        {
+            "station": "BAL",
+            "delay": 25.730462519936204
+        },
+        {
+            "station": "TRE",
+            "delay": 26.168012924071082
+        },
+        {
+            "station": "PHL",
+            "delay": 26.291530944625407
+        },
+        {
+            "station": "WIL",
+            "delay": 26.838915470494417
+        },
+        {
+            "station": "CVS",
+            "delay": 34.09409888357257
+        },
+        {
+            "station": "GRO",
+            "delay": 36.4171974522293
+        },
+        {
+            "station": "LYH",
+            "delay": 37.29140127388535
+        },
+        {
+            "station": "CLT",
+            "delay": 40.51592356687898
+        },
+        {
+            "station": "NYP",
+            "delay": 42.82222222222222
+        },
+        {
+            "station": "GRV",
+            "delay": 48.76236044657097
+        },
+        {
+            "station": "MEI",
+            "delay": 51.66252220248668
+        },
+        {
+            "station": "ATL",
+            "delay": 52.008389261744966
+        },
+        {
+            "station": "BHM",
+            "delay": 52.656028368794324
+        },
+        {
+            "station": "NOL",
+            "delay": 80.7153024911032
+        }
+    ]
+},
+{
+    "train": "THIS TRAIN HAS EXPERIENCED CANCELLATIONS",
+    "source_delay": [{
+            "station": "NYP",
+            "delay": 0
+        },
+        {
+            "station": "NWK",
+            "delay": 0
+        },
+        {
+            "station": "TRE",
+            "delay": 0
+        },
+        {
+            "station": "PHL",
+            "delay": 0
+        },
+        {
+            "station": "BAL",
+            "delay": 0
+        },
+        {
+            "station": "WAS",
+            "delay": 0
+        },
+        {
+            "station": "ALX",
+            "delay": 0
+        },
+        {
+            "station": "CLT",
+            "delay": 0
+        },
+        {
+            "station": "GRV",
+            "delay": 0
+        },
+        {
+            "station": "CSN",
+            "delay": 0
+        },
+        {
+            "station": "LAX",
+            "delay": 0
+        },
+        {
+            "station": "ONA",
+            "delay": 0
+        },
+        {
+            "station": "TUS",
+            "delay": 0
+        },
+        {
+            "station": "WIL",
+            "delay": 1
+        },
+        {
+            "station": "SPB",
+            "delay": 3
+        },
+        {
+            "station": "POS",
+            "delay": 3
+        },
+        {
+            "station": "PSN",
+            "delay": 3
+        },
+        {
+            "station": "CLP",
+            "delay": 4
+        },
+        {
+            "station": "GAS",
+            "delay": 4
+        },
+        {
+            "station": "MRC",
+            "delay": 4
+        },
+        {
+            "station": "MSS",
+            "delay": 5
+        },
+        {
+            "station": "CVS",
+            "delay": 6
+        },
+        {
+            "station": "SAL",
+            "delay": 6
+        },
+        {
+            "station": "YUM",
+            "delay": 8
+        },
+        {
+            "station": "HPT",
+            "delay": 13
+        },
+        {
+            "station": "GNS",
+            "delay": 13
+        },
+        {
+            "station": "GRO",
+            "delay": 14
+        },
+        {
+            "station": "TCA",
+            "delay": 14
+        },
+        {
+            "station": "LYH",
+            "delay": 20
+        },
+        {
+            "station": "DAN",
+            "delay": 21
+        },
+        {
+            "station": "ALP",
+            "delay": 29
+        },
+        {
+            "station": "SND",
+            "delay": 29
+        },
+        {
+            "station": "DRT",
+            "delay": 47
+        },
+        {
+            "station": "BEN",
+            "delay": 50
+        },
+        {
+            "station": "ELP",
+            "delay": 55
+        },
+        {
+            "station": "DEM",
+            "delay": 84
+        },
+        {
+            "station": "LDB",
+            "delay": 88
+        }
+    ],
+    "destination_delay": [{
+            "station": "NWK",
+            "delay": 0
+        },
+        {
+            "station": "TRE",
+            "delay": 0
+        },
+        {
+            "station": "PHL",
+            "delay": 0
+        },
+        {
+            "station": "BAL",
+            "delay": 0
+        },
+        {
+            "station": "WAS",
+            "delay": 0
+        },
+        {
+            "station": "CLT",
+            "delay": 0
+        },
+        {
+            "station": "MRC",
+            "delay": 0
+        },
+        {
+            "station": "TUS",
+            "delay": 0
+        },
+        {
+            "station": "GRV",
+            "delay": 1
+        },
+        {
+            "station": "WIL",
+            "delay": 2
+        },
+        {
+            "station": "CVS",
+            "delay": 3
+        },
+        {
+            "station": "GRO",
+            "delay": 13
+        },
+        {
+            "station": "LYH",
+            "delay": 18
+        },
+        {
+            "station": "ALP",
+            "delay": 23
+        },
+        {
+            "station": "ATL",
+            "delay": 38
+        },
+        {
+            "station": "ELP",
+            "delay": 63
+        },
+        {
+            "station": "SAS",
+            "delay": 142
+        }
+    ]
+},
+{
+    "train": "Texas Eagle",
+    "source_delay": [{
+            "station": "CHI",
+            "delay": 1.0376175548589341
+        },
+        {
+            "station": "SAS",
+            "delay": 19.08974358974359
+        },
+        {
+            "station": "JOL",
+            "delay": 23.22397476340694
+        },
+        {
+            "station": "STL",
+            "delay": 28.953968253968252
+        },
+        {
+            "station": "BNL",
+            "delay": 29.77287066246057
+        },
+        {
+            "station": "SPI",
+            "delay": 31.082278481012658
+        },
+        {
+            "station": "CRV",
+            "delay": 31.48076923076923
+        },
+        {
+            "station": "PON",
+            "delay": 31.95967741935484
+        },
+        {
+            "station": "LCN",
+            "delay": 32.49427168576105
+        },
+        {
+            "station": "ALN",
+            "delay": 33.80286168521462
+        },
+        {
+            "station": "FTW",
+            "delay": 38.864297253634895
+        },
+        {
+            "station": "TPL",
+            "delay": 41.041800643086816
+        },
+        {
+            "station": "CBR",
+            "delay": 43.46290322580645
+        },
+        {
+            "station": "MCG",
+            "delay": 44.590982286634464
+        },
+        {
+            "station": "ACD",
+            "delay": 45.0128
+        },
+        {
+            "station": "TAY",
+            "delay": 45.146537842190014
+        },
+        {
+            "station": "PBF",
+            "delay": 45.83934426229508
+        },
+        {
+            "station": "LRK",
+            "delay": 47.165341812400634
+        },
+        {
+            "station": "DAL",
+            "delay": 47.25118483412322
+        },
+        {
+            "station": "WNR",
+            "delay": 51.00974025974026
+        },
+        {
+            "station": "MHL",
+            "delay": 51.061708860759495
+        },
+        {
+            "station": "AUS",
+            "delay": 52.96768982229402
+        },
+        {
+            "station": "TXA",
+            "delay": 55.1743264659271
+        },
+        {
+            "station": "MVN",
+            "delay": 55.84260731319555
+        },
+        {
+            "station": "HOP",
+            "delay": 56.47611464968153
+        },
+        {
+            "station": "ARK",
+            "delay": 56.843700159489636
+        },
+        {
+            "station": "MIN",
+            "delay": 60.363349131121645
+        },
+        {
+            "station": "LVW",
+            "delay": 61.00473933649289
+        },
+        {
+            "station": "SMC",
+            "delay": 61.410628019323674
+        }
+    ],
+    "destination_delay": [{
+            "station": "STL",
+            "delay": 24.728571428571428
+        },
+        {
+            "station": "FTW",
+            "delay": 34.91276252019386
+        },
+        {
+            "station": "LRK",
+            "delay": 40.5945945945946
+        },
+        {
+            "station": "CHI",
+            "delay": 41.70793650793651
+        },
+        {
+            "station": "AUS",
+            "delay": 45.733441033925686
+        },
+        {
+            "station": "SAS",
+            "delay": 48.54071661237785
+        },
+        {
+            "station": "MHL",
+            "delay": 52.25
+        },
+        {
+            "station": "DAL",
+            "delay": 53.56398104265403
+        }
+    ]
+},
+{
+    "train": "Acela Express",
+    "source_delay": [{
+            "station": "BOS",
+            "delay": 0.43891402714932126
+        },
+        {
+            "station": "WAS",
+            "delay": 0.7156726768377254
+        },
+        {
+            "station": "NYP",
+            "delay": 2.668107173725151
+        },
+        {
+            "station": "BBY",
+            "delay": 3.622576966932725
+        },
+        {
+            "station": "RTE",
+            "delay": 3.7387802071346377
+        },
+        {
+            "station": "BWI",
+            "delay": 3.926829268292683
+        },
+        {
+            "station": "NHV",
+            "delay": 4.205191594561187
+        },
+        {
+            "station": "BAL",
+            "delay": 4.23583460949464
+        },
+        {
+            "station": "PHL",
+            "delay": 4.434648105181748
+        },
+        {
+            "station": "PVD",
+            "delay": 4.929304446978335
+        },
+        {
+            "station": "NWK",
+            "delay": 5.354365370506236
+        },
+        {
+            "station": "MET",
+            "delay": 5.37212449255751
+        },
+        {
+            "station": "TRE",
+            "delay": 5.529411764705882
+        },
+        {
+            "station": "WIL",
+            "delay": 5.7013838310269485
+        },
+        {
+            "station": "STM",
+            "delay": 6.332125603864735
+        },
+        {
+            "station": "NLC",
+            "delay": 7.96078431372549
+        }
+    ],
+    "destination_delay": [{
+            "station": "STM",
+            "delay": 2.9761904761904763
+        },
+        {
+            "station": "NHV",
+            "delay": 3.5730337078651684
+        },
+        {
+            "station": "NWK",
+            "delay": 3.8929098966026587
+        },
+        {
+            "station": "WAS",
+            "delay": 3.9875
+        },
+        {
+            "station": "BAL",
+            "delay": 4.009252120277564
+        },
+        {
+            "station": "BWI",
+            "delay": 4.03030303030303
+        },
+        {
+            "station": "TRE",
+            "delay": 4.186274509803922
+        },
+        {
+            "station": "NYP",
+            "delay": 4.464935064935065
+        },
+        {
+            "station": "PHL",
+            "delay": 4.7368421052631575
+        },
+        {
+            "station": "MET",
+            "delay": 4.757142857142857
+        },
+        {
+            "station": "BOS",
+            "delay": 4.866213151927438
+        },
+        {
+            "station": "WIL",
+            "delay": 4.881964809384164
+        },
+        {
+            "station": "PVD",
+            "delay": 4.893066980023502
+        }
+    ]
+},
+{
+    "train": "Acela",
+    "source_delay": [{
+            "station": "WAS",
+            "delay": 0.5077220077220077
+        },
+        {
+            "station": "BOS",
+            "delay": 0.8818283166109253
+        },
+        {
+            "station": "NYP",
+            "delay": 2.58320292123109
+        },
+        {
+            "station": "BBY",
+            "delay": 3.020809898762655
+        },
+        {
+            "station": "RTE",
+            "delay": 3.374436936936937
+        },
+        {
+            "station": "BWI",
+            "delay": 4.286277084701248
+        },
+        {
+            "station": "BAL",
+            "delay": 4.315102860010035
+        },
+        {
+            "station": "NHV",
+            "delay": 4.418764302059497
+        },
+        {
+            "station": "PHL",
+            "delay": 4.430890052356021
+        },
+        {
+            "station": "NCR",
+            "delay": 4.794871794871795
+        },
+        {
+            "station": "NWK",
+            "delay": 5.032368808239333
+        },
+        {
+            "station": "PVD",
+            "delay": 5.272013460459899
+        },
+        {
+            "station": "MET",
+            "delay": 5.664388762338649
+        },
+        {
+            "station": "NLC",
+            "delay": 6.2272727272727275
+        },
+        {
+            "station": "WIL",
+            "delay": 6.262826718296225
+        },
+        {
+            "station": "STM",
+            "delay": 6.380622837370242
+        },
+        {
+            "station": "TRE",
+            "delay": 6.946308724832215
+        }
+    ],
+    "destination_delay": [{
+            "station": "NHV",
+            "delay": 3.509643483343074
+        },
+        {
+            "station": "NYP",
+            "delay": 3.846555323590814
+        },
+        {
+            "station": "NWK",
+            "delay": 4.042436345481778
+        },
+        {
+            "station": "BAL",
+            "delay": 4.226877874297394
+        },
+        {
+            "station": "BOS",
+            "delay": 4.3865168539325845
+        },
+        {
+            "station": "PHL",
+            "delay": 4.60890052356021
+        },
+        {
+            "station": "TRE",
+            "delay": 4.737704918032787
+        },
+        {
+            "station": "WAS",
+            "delay": 4.870280735721201
+        },
+        {
+            "station": "MET",
+            "delay": 5.033333333333333
+        },
+        {
+            "station": "PVD",
+            "delay": 5.334098737083812
+        },
+        {
+            "station": "WIL",
+            "delay": 5.437931034482759
+        },
+        {
+            "station": "STM",
+            "delay": 6.4375
+        },
+        {
+            "station": "BWI",
+            "delay": 13.228915662650602
+        }
+    ]
+},
+{
+    "train": "Acela Express Extra",
+    "source_delay": [{
+            "station": "NYP",
+            "delay": 0
+        },
+        {
+            "station": "PHL",
+            "delay": 0
+        },
+        {
+            "station": "WAS",
+            "delay": 0
+        },
+        {
+            "station": "BWI",
+            "delay": 0
+        },
+        {
+            "station": "BOS",
+            "delay": 0.3333333333333333
+        },
+        {
+            "station": "NWK",
+            "delay": 1
+        },
+        {
+            "station": "BAL",
+            "delay": 1
+        },
+        {
+            "station": "WIL",
+            "delay": 1.3333333333333333
+        },
+        {
+            "station": "NHV",
+            "delay": 2
+        },
+        {
+            "station": "BBY",
+            "delay": 2.25
+        },
+        {
+            "station": "RTE",
+            "delay": 2.5
+        },
+        {
+            "station": "MET",
+            "delay": 2.5
+        },
+        {
+            "station": "STM",
+            "delay": 3.3333333333333335
+        },
+        {
+            "station": "PVD",
+            "delay": 4.5
+        }
+    ],
+    "destination_delay": [{
+            "station": "NYP",
+            "delay": 0
+        },
+        {
+            "station": "WAS",
+            "delay": 0
+        },
+        {
+            "station": "PHL",
+            "delay": 1
+        },
+        {
+            "station": "NHV",
+            "delay": 1.25
+        },
+        {
+            "station": "BOS",
+            "delay": 6
+        }
+    ]
+},
+{
+    "train": "Empire Service",
+    "source_delay": [{
+            "station": "NFL",
+            "delay": 0.7707865168539326
+        },
+        {
+            "station": "NYP",
+            "delay": 1.0519645120405576
+        },
+        {
+            "station": "ALB",
+            "delay": 4.2735304111450905
+        },
+        {
+            "station": "YNY",
+            "delay": 5.685255597803127
+        },
+        {
+            "station": "CRT",
+            "delay": 5.931986531986532
+        },
+        {
+            "station": "POU",
+            "delay": 6.1407373058196155
+        },
+        {
+            "station": "RHI",
+            "delay": 6.638312123241795
+        },
+        {
+            "station": "HUD",
+            "delay": 7.479750778816199
+        },
+        {
+            "station": "SDY",
+            "delay": 15.309278350515465
+        },
+        {
+            "station": "AMS",
+            "delay": 16.672680412371133
+        },
+        {
+            "station": "ROM",
+            "delay": 19.12071917808219
+        },
+        {
+            "station": "UCA",
+            "delay": 19.734763948497854
+        },
+        {
+            "station": "BFX",
+            "delay": 21.730358874878757
+        },
+        {
+            "station": "BUF",
+            "delay": 23.230072463768117
+        },
+        {
+            "station": "ROC",
+            "delay": 23.962264150943398
+        },
+        {
+            "station": "SYR",
+            "delay": 24.25278491859469
+        }
+    ],
+    "destination_delay": [{
+            "station": "NYP",
+            "delay": 4.494812810103744
+        },
+        {
+            "station": "ALB",
+            "delay": 8.572394165777304
+        },
+        {
+            "station": "NFL",
+            "delay": 24.800277392510402
+        }
+    ]
+},
+{
+    "train": "Acela Nonstop",
+    "source_delay": [{
+            "station": "NYP",
+            "delay": 0
+        },
+        {
+            "station": "WAS",
+            "delay": 0
+        }
+    ],
+    "destination_delay": [{
+            "station": "WAS",
+            "delay": 1.9166666666666667
+        },
+        {
+            "station": "NYP",
+            "delay": 3.8181818181818183
+        }
+    ]
+},
+{
+    "train": "Capitol Limited",
+    "source_delay": [{
+            "station": "WAS",
+            "delay": 2.5399361022364215
+        },
+        {
+            "station": "CHI",
+            "delay": 3.0031645569620253
+        },
+        {
+            "station": "PGH",
+            "delay": 19.373205741626794
+        },
+        {
+            "station": "RKV",
+            "delay": 24.30995106035889
+        },
+        {
+            "station": "CUM",
+            "delay": 24.50877192982456
+        },
+        {
+            "station": "COV",
+            "delay": 24.966507177033492
+        },
+        {
+            "station": "HFY",
+            "delay": 25.137030995106034
+        },
+        {
+            "station": "MRB",
+            "delay": 26.7488
+        },
+        {
+            "station": "TOL",
+            "delay": 29.721780604133546
+        },
+        {
+            "station": "ALC",
+            "delay": 30.344992050874403
+        },
+        {
+            "station": "CLE",
+            "delay": 30.538950715421304
+        },
+        {
+            "station": "WTI",
+            "delay": 32.206022187004756
+        },
+        {
+            "station": "ELY",
+            "delay": 32.5214626391097
+        },
+        {
+            "station": "SOB",
+            "delay": 32.6015873015873
+        },
+        {
+            "station": "EKH",
+            "delay": 33.66244057052298
+        },
+        {
+            "station": "SKY",
+            "delay": 33.80507131537242
+        }
+    ],
+    "destination_delay": [{
+            "station": "PGH",
+            "delay": 19.567783094098882
+        },
+        {
+            "station": "CUM",
+            "delay": 24.181818181818183
+        },
+        {
+            "station": "WAS",
+            "delay": 24.96496815286624
+        },
+        {
+            "station": "TOL",
+            "delay": 28.24483306836248
+        },
+        {
+            "station": "CLE",
+            "delay": 32.19872813990461
+        },
+        {
+            "station": "CHI",
+            "delay": 34.98412698412698
+        }
+    ]
+},
+{
+    "train": "Ethan Allen Express",
+    "source_delay": [{
+            "station": "RUD",
+            "delay": 0.3764705882352941
+        },
+        {
+            "station": "ALB",
+            "delay": 1
+        },
+        {
+            "station": "NYP",
+            "delay": 1.1372549019607843
+        },
+        {
+            "station": "CNV",
+            "delay": 2.4791666666666665
+        },
+        {
+            "station": "SDY",
+            "delay": 3.9823529411764707
+        },
+        {
+            "station": "YNY",
+            "delay": 5.363025210084033
+        },
+        {
+            "station": "CRT",
+            "delay": 5.648208469055374
+        },
+        {
+            "station": "POU",
+            "delay": 6.163157894736842
+        },
+        {
+            "station": "SAR",
+            "delay": 6.305882352941176
+        },
+        {
+            "station": "RHI",
+            "delay": 6.421311475409836
+        },
+        {
+            "station": "FED",
+            "delay": 6.550295857988166
+        },
+        {
+            "station": "HUD",
+            "delay": 7.531147540983606
+        }
+    ],
+    "destination_delay": [{
+            "station": "RUD",
+            "delay": 1.6470588235294117
+        },
+        {
+            "station": "NYP",
+            "delay": 3.5210355987055015
+        },
+        {
+            "station": "ALB",
+            "delay": 6.410714285714286
+        }
+    ]
+},
+{
+    "train": "Lincoln Service",
+    "source_delay": [{
+            "station": "CHI",
+            "delay": 0.6370786516853932
+        },
+        {
+            "station": "STL",
+            "delay": 0.9371492704826038
+        },
+        {
+            "station": "ALN",
+            "delay": 6.208997722095672
+        },
+        {
+            "station": "CRV",
+            "delay": 6.234441087613293
+        },
+        {
+            "station": "SPI",
+            "delay": 6.893340857787811
+        },
+        {
+            "station": "JOL",
+            "delay": 8.233655486071632
+        },
+        {
+            "station": "SMT",
+            "delay": 8.836710369487484
+        },
+        {
+            "station": "LCN",
+            "delay": 9.414604707302354
+        },
+        {
+            "station": "BNL",
+            "delay": 9.732132808103545
+        },
+        {
+            "station": "DWT",
+            "delay": 10.220359281437126
+        },
+        {
+            "station": "PON",
+            "delay": 10.460260972716489
+        }
+    ],
+    "destination_delay": [{
+            "station": "STL",
+            "delay": 5.8457207207207205
+        },
+        {
+            "station": "BNL",
+            "delay": 6.063291139240507
+        },
+        {
+            "station": "CHI",
+            "delay": 7.033670033670034
+        }
+    ]
+},
+{
+    "train": "Missouri River Runner",
+    "source_delay": [{
+            "station": "STL",
+            "delay": 0.9151785714285714
+        },
+        {
+            "station": "KCY",
+            "delay": 1.3377777777777777
+        },
+        {
+            "station": "LEE",
+            "delay": 12.058230683090706
+        },
+        {
+            "station": "IDP",
+            "delay": 12.331088664421998
+        },
+        {
+            "station": "KWD",
+            "delay": 13.494960806270997
+        },
+        {
+            "station": "WAR",
+            "delay": 14.266742338251987
+        },
+        {
+            "station": "SED",
+            "delay": 14.471973094170403
+        },
+        {
+            "station": "WAH",
+            "delay": 14.543624161073826
+        },
+        {
+            "station": "JEF",
+            "delay": 14.56536312849162
+        },
+        {
+            "station": "HEM",
+            "delay": 14.652272727272727
+        }
+    ],
+    "destination_delay": [{
+            "station": "KCY",
+            "delay": 14.505592841163311
+        },
+        {
+            "station": "STL",
+            "delay": 15.194196428571429
+        }
+    ]
+},
+{
+    "train": "Hiawatha",
+    "source_delay": [{
+            "station": "MKE",
+            "delay": 0.6428571428571429
+        },
+        {
+            "station": "CHI",
+            "delay": 0.7922480620155039
+        },
+        {
+            "station": "MKA",
+            "delay": 3.6192322605661107
+        },
+        {
+            "station": "GLN",
+            "delay": 3.9172172561212593
+        },
+        {
+            "station": "SVT",
+            "delay": 4.003108003108003
+        }
+    ],
+    "destination_delay": [{
+            "station": "MKE",
+            "delay": 2.9612403100775193
+        },
+        {
+            "station": "CHI",
+            "delay": 3.095645412130638
+        }
+    ]
+},
+{
+    "train": "Wolverine",
+    "source_delay": [{
+            "station": "PNT",
+            "delay": 0.5048169556840078
+        },
+        {
+            "station": "CHI",
+            "delay": 2.5067437379576107
+        },
+        {
+            "station": "NBU",
+            "delay": 15.567607726597325
+        },
+        {
+            "station": "ROY",
+            "delay": 16.181927710843375
+        },
+        {
+            "station": "TRM",
+            "delay": 16.22689075630252
+        },
+        {
+            "station": "NLS",
+            "delay": 16.68148148148148
+        },
+        {
+            "station": "DET",
+            "delay": 18.172582619339046
+        },
+        {
+            "station": "ARB",
+            "delay": 18.495652173913044
+        },
+        {
+            "station": "JXN",
+            "delay": 18.644444444444446
+        },
+        {
+            "station": "ALI",
+            "delay": 19.155555555555555
+        },
+        {
+            "station": "MCI",
+            "delay": 19.76068376068376
+        },
+        {
+            "station": "DER",
+            "delay": 19.927906976744186
+        },
+        {
+            "station": "KAL",
+            "delay": 20.08413926499033
+        },
+        {
+            "station": "BTL",
+            "delay": 21.6743961352657
+        },
+        {
+            "station": "DOA",
+            "delay": 22.166666666666668
+        },
+        {
+            "station": "HMI",
+            "delay": 23.491525423728813
+        }
+    ],
+    "destination_delay": [{
+            "station": "DET",
+            "delay": 16.094594594594593
+        },
+        {
+            "station": "PNT",
+            "delay": 16.904296875
+        },
+        {
+            "station": "CHI",
+            "delay": 17.125725338491296
+        },
+        {
+            "station": "BTL",
+            "delay": 17.2512077294686
+        }
+    ]
+},
+{
+    "train": "Blue Water",
+    "source_delay": [{
+            "station": "PTH",
+            "delay": 0.4697802197802198
+        },
+        {
+            "station": "CHI",
+            "delay": 2.4269972451790633
+        },
+        {
+            "station": "LPE",
+            "delay": 6.811554332874828
+        },
+        {
+            "station": "FLN",
+            "delay": 7.21103448275862
+        },
+        {
+            "station": "DRD",
+            "delay": 7.484848484848484
+        },
+        {
+            "station": "LNS",
+            "delay": 7.569463548830812
+        },
+        {
+            "station": "NLS",
+            "delay": 8.372764786795049
+        },
+        {
+            "station": "DOA",
+            "delay": 8.815934065934066
+        },
+        {
+            "station": "NBU",
+            "delay": 9.02200825309491
+        },
+        {
+            "station": "KAL",
+            "delay": 10.057851239669422
+        },
+        {
+            "station": "BTL",
+            "delay": 11.598620689655172
+        }
+    ],
+    "destination_delay": [{
+            "station": "PTH",
+            "delay": 7.778393351800554
+        },
+        {
+            "station": "BTL",
+            "delay": 8.979310344827587
+        },
+        {
+            "station": "CHI",
+            "delay": 10.072222222222223
+        }
+    ]
+},
+{
+    "train": "Pere Marquette",
+    "source_delay": [{
+            "station": "CHI",
+            "delay": 0.39543726235741444
+        },
+        {
+            "station": "GRR",
+            "delay": 0.5862068965517241
+        },
+        {
+            "station": "SJM",
+            "delay": 7.645038167938932
+        },
+        {
+            "station": "BAM",
+            "delay": 7.700575815738963
+        },
+        {
+            "station": "HOM",
+            "delay": 8.099616858237548
+        }
+    ],
+    "destination_delay": [{
+            "station": "CHI",
+            "delay": 7.176245210727969
+        },
+        {
+            "station": "GRR",
+            "delay": 8.796934865900383
+        }
+    ]
+},
+{
+    "train": "Illinois Zephyr",
+    "source_delay": [{
+            "station": "QCY",
+            "delay": 0.7786885245901639
+        },
+        {
+            "station": "CHI",
+            "delay": 1.1120218579234973
+        },
+        {
+            "station": "MAC",
+            "delay": 5.553424657534246
+        },
+        {
+            "station": "LAG",
+            "delay": 5.745529573590097
+        },
+        {
+            "station": "NPV",
+            "delay": 5.947802197802198
+        },
+        {
+            "station": "GBB",
+            "delay": 6.132049518569463
+        },
+        {
+            "station": "PLO",
+            "delay": 6.301136363636363
+        },
+        {
+            "station": "MDT",
+            "delay": 6.8821081830790565
+        },
+        {
+            "station": "KEE",
+            "delay": 6.918282548476454
+        },
+        {
+            "station": "PCT",
+            "delay": 7.067132867132867
+        }
+    ],
+    "destination_delay": [{
+            "station": "CHI",
+            "delay": 4.1923076923076925
+        },
+        {
+            "station": "QCY",
+            "delay": 4.308743169398907
+        },
+        {
+            "station": "GBB",
+            "delay": 5.50343878954608
+        }
+    ]
+},
+{
+    "train": "Carl Sandburg",
+    "source_delay": [{
+            "station": "CHI",
+            "delay": 0.3125
+        },
+        {
+            "station": "QCY",
+            "delay": 1.55
+        },
+        {
+            "station": "LAG",
+            "delay": 3.2625
+        },
+        {
+            "station": "NPV",
+            "delay": 3.4625
+        },
+        {
+            "station": "PLO",
+            "delay": 4.072463768115942
+        },
+        {
+            "station": "MDT",
+            "delay": 4.705128205128205
+        },
+        {
+            "station": "GBB",
+            "delay": 4.98125
+        },
+        {
+            "station": "PCT",
+            "delay": 5.0064935064935066
+        },
+        {
+            "station": "MAC",
+            "delay": 5.1835443037974684
+        },
+        {
+            "station": "KEE",
+            "delay": 5.662420382165605
+        }
+    ],
+    "destination_delay": [{
+            "station": "QCY",
+            "delay": 1.8987341772151898
+        },
+        {
+            "station": "CHI",
+            "delay": 2.4625
+        },
+        {
+            "station": "GBB",
+            "delay": 4.7
+        }
+    ]
+},
+{
+    "train": "Saluki",
+    "source_delay": [{
+            "station": "CHI",
+            "delay": 0
+        },
+        {
+            "station": "CDL",
+            "delay": 0.9281767955801105
+        },
+        {
+            "station": "DQN",
+            "delay": 6.6840909090909095
+        },
+        {
+            "station": "CEN",
+            "delay": 8.08843537414966
+        },
+        {
+            "station": "EFG",
+            "delay": 13.176470588235293
+        },
+        {
+            "station": "MAT",
+            "delay": 16.013574660633484
+        },
+        {
+            "station": "CHM",
+            "delay": 16.518099547511312
+        },
+        {
+            "station": "RTL",
+            "delay": 17.520361990950228
+        },
+        {
+            "station": "GLM",
+            "delay": 19.403628117913833
+        },
+        {
+            "station": "HMW",
+            "delay": 21.15034965034965
+        },
+        {
+            "station": "KKI",
+            "delay": 21.850678733031675
+        }
+    ],
+    "destination_delay": [{
+            "station": "CDL",
+            "delay": 2.8875
+        },
+        {
+            "station": "CHI",
+            "delay": 7.218836565096953
+        }
+    ]
+},
+{
+    "train": "Illini",
+    "source_delay": [{
+            "station": "CDL",
+            "delay": 0.175
+        },
+        {
+            "station": "CHI",
+            "delay": 2.369146005509642
+        },
+        {
+            "station": "KKI",
+            "delay": 13.85876993166287
+        },
+        {
+            "station": "GLM",
+            "delay": 15.417607223476297
+        },
+        {
+            "station": "HMW",
+            "delay": 16.64788732394366
+        },
+        {
+            "station": "RTL",
+            "delay": 17.945823927765236
+        },
+        {
+            "station": "CHM",
+            "delay": 19.79683972911964
+        },
+        {
+            "station": "MAT",
+            "delay": 21.782805429864254
+        },
+        {
+            "station": "EFG",
+            "delay": 23.950113378684808
+        },
+        {
+            "station": "CEN",
+            "delay": 26.4841628959276
+        },
+        {
+            "station": "DQN",
+            "delay": 27.36467889908257
+        }
+    ],
+    "destination_delay": [{
+            "station": "CHI",
+            "delay": 6.05
+        },
+        {
+            "station": "CDL",
+            "delay": 9.362880886426593
+        }
+    ]
+},
+{
+    "train": "Springfield Shuttle",
+    "source_delay": [{
+            "station": "SPG",
+            "delay": 0.5058823529411764
+        },
+        {
+            "station": "NHT",
+            "delay": 2.433734939759036
+        },
+        {
+            "station": "HLK",
+            "delay": 3.5595238095238093
+        }
+    ],
+    "destination_delay": [{
+        "station": "GFD",
+        "delay": 2.072289156626506
+    }]
+},
+{
+    "train": "Valley Flyer",
+    "source_delay": [{
+            "station": "GFD",
+            "delay": 0.904397705544933
+        },
+        {
+            "station": "SPG",
+            "delay": 2.447831184056272
+        },
+        {
+            "station": "HLK",
+            "delay": 2.8333333333333335
+        },
+        {
+            "station": "NHT",
+            "delay": 3.008342022940563
+        },
+        {
+            "station": "NHV",
+            "delay": 3.58679706601467
+        },
+        {
+            "station": "MDN",
+            "delay": 4.877575757575758
+        },
+        {
+            "station": "STS",
+            "delay": 4.889428918590522
+        },
+        {
+            "station": "BER",
+            "delay": 5.192727272727272
+        },
+        {
+            "station": "HFD",
+            "delay": 5.212378640776699
+        },
+        {
+            "station": "WFD",
+            "delay": 5.248175182481752
+        },
+        {
+            "station": "WNL",
+            "delay": 5.87030303030303
+        },
+        {
+            "station": "WND",
+            "delay": 5.947688564476886
+        }
+    ],
+    "destination_delay": [{
+            "station": "NHV",
+            "delay": 1.6144578313253013
+        },
+        {
+            "station": "SPG",
+            "delay": 3.701284796573876
+        },
+        {
+            "station": "GFD",
+            "delay": 6.369791666666667
+        }
+    ]
+},
+{
+    "train": "Amtrak Hartford Line",
+    "source_delay": [{
+            "station": "SPG",
+            "delay": 0.8684931506849315
+        },
+        {
+            "station": "NHV",
+            "delay": 2.153284671532847
+        },
+        {
+            "station": "STS",
+            "delay": 4.610192837465565
+        },
+        {
+            "station": "HFD",
+            "delay": 4.870022883295195
+        },
+        {
+            "station": "WFD",
+            "delay": 5.086120018323408
+        },
+        {
+            "station": "MDN",
+            "delay": 5.193681318681318
+        },
+        {
+            "station": "BER",
+            "delay": 5.349794238683128
+        },
+        {
+            "station": "WND",
+            "delay": 5.572473708276178
+        },
+        {
+            "station": "WNL",
+            "delay": 5.601190476190476
+        }
+    ],
+    "destination_delay": [{
+            "station": "NHV",
+            "delay": 2.787351054078827
+        },
+        {
+            "station": "SPG",
+            "delay": 5.829223744292237
+        }
+    ]
+},
+{
+    "train": "Pennsylvanian",
+    "source_delay": [{
+            "station": "NYP",
+            "delay": 0.9621993127147767
+        },
+        {
+            "station": "PGH",
+            "delay": 2.006849315068493
+        },
+        {
+            "station": "NWK",
+            "delay": 5.937823834196891
+        },
+        {
+            "station": "TRE",
+            "delay": 6.357638888888889
+        },
+        {
+            "station": "PHL",
+            "delay": 8.41459074733096
+        },
+        {
+            "station": "PAO",
+            "delay": 9.742160278745645
+        },
+        {
+            "station": "LNC",
+            "delay": 12.510309278350515
+        },
+        {
+            "station": "HAR",
+            "delay": 13.548885077186965
+        },
+        {
+            "station": "EXT",
+            "delay": 14.5
+        },
+        {
+            "station": "ELT",
+            "delay": 15.1786941580756
+        },
+        {
+            "station": "LEW",
+            "delay": 20.412068965517243
+        },
+        {
+            "station": "ALT",
+            "delay": 20.760344827586206
+        },
+        {
+            "station": "LAB",
+            "delay": 20.895189003436425
+        },
+        {
+            "station": "GNB",
+            "delay": 20.90344827586207
+        },
+        {
+            "station": "JST",
+            "delay": 21.053264604810998
+        },
+        {
+            "station": "HGD",
+            "delay": 21.149565217391306
+        },
+        {
+            "station": "TYR",
+            "delay": 22.630849220103986
+        }
+    ],
+    "destination_delay": [{
+            "station": "NWK",
+            "delay": 5.8549222797927465
+        },
+        {
+            "station": "TRE",
+            "delay": 6.359375
+        },
+        {
+            "station": "PHL",
+            "delay": 6.380782918149467
+        },
+        {
+            "station": "NYP",
+            "delay": 9.848275862068965
+        },
+        {
+            "station": "HAR",
+            "delay": 12.598627787307032
+        },
+        {
+            "station": "PGH",
+            "delay": 25.085910652920962
+        }
+    ]
+},
+{
+    "train": "Lake Shore Limited - Boston Section",
+    "source_delay": [{
+            "station": "BOS",
+            "delay": 2.066666666666667
+        },
+        {
+            "station": "ALB",
+            "delay": 10.692622950819672
+        },
+        {
+            "station": "BBY",
+            "delay": 14.40085287846482
+        },
+        {
+            "station": "SPG",
+            "delay": 15.018789144050105
+        },
+        {
+            "station": "WOR",
+            "delay": 16.318471337579616
+        },
+        {
+            "station": "FRA",
+            "delay": 18.448660714285715
+        },
+        {
+            "station": "PIT",
+            "delay": 19.34575569358178
+        }
+    ],
+    "destination_delay": [{
+            "station": "ALB",
+            "delay": 11.079166666666667
+        },
+        {
+            "station": "SPG",
+            "delay": 14.943632567849686
+        },
+        {
+            "station": "BOS",
+            "delay": 26.995833333333334
+        }
+    ]
+},
+{
+    "train": "Lake Shore Limited",
+    "source_delay": [{
+            "station": "NYP",
+            "delay": 1.4670846394984327
+        },
+        {
+            "station": "CHI",
+            "delay": 1.515625
+        },
+        {
+            "station": "CRT",
+            "delay": 4.502377179080824
+        },
+        {
+            "station": "RHI",
+            "delay": 5.4736
+        },
+        {
+            "station": "POU",
+            "delay": 5.713836477987422
+        },
+        {
+            "station": "ALB",
+            "delay": 5.92018779342723
+        },
+        {
+            "station": "CLE",
+            "delay": 13.626373626373626
+        },
+        {
+            "station": "SDY",
+            "delay": 14.248427672955975
+        },
+        {
+            "station": "TOL",
+            "delay": 16.51962323390895
+        },
+        {
+            "station": "ERI",
+            "delay": 16.823161189358373
+        },
+        {
+            "station": "ELY",
+            "delay": 19.40282131661442
+        },
+        {
+            "station": "BUF",
+            "delay": 19.70735524256651
+        },
+        {
+            "station": "SKY",
+            "delay": 20.302034428794993
+        },
+        {
+            "station": "UCA",
+            "delay": 20.453834115805947
+        },
+        {
+            "station": "SYR",
+            "delay": 21.82003129890454
+        },
+        {
+            "station": "ROC",
+            "delay": 21.891849529780565
+        },
+        {
+            "station": "WTI",
+            "delay": 22.363067292644757
+        },
+        {
+            "station": "BYN",
+            "delay": 22.717868338557995
+        },
+        {
+            "station": "EKH",
+            "delay": 24.21752738654147
+        },
+        {
+            "station": "SOB",
+            "delay": 26.09702660406886
+        }
+    ],
+    "destination_delay": [{
+            "station": "NYP",
+            "delay": 6.565625
+        },
+        {
+            "station": "ALB",
+            "delay": 8.012519561815337
+        },
+        {
+            "station": "CLE",
+            "delay": 15.378335949764521
+        },
+        {
+            "station": "TOL",
+            "delay": 17.560439560439562
+        },
+        {
+            "station": "BUF",
+            "delay": 17.661971830985916
+        },
+        {
+            "station": "SDY",
+            "delay": 20.663522012578618
+        },
+        {
+            "station": "CHI",
+            "delay": 27.3730407523511
+        }
+    ]
+},
+{
+    "train": "Cardinal",
+    "source_delay": [{
+            "station": "NYP",
+            "delay": 0.19745222929936307
+        },
+        {
+            "station": "CHI",
+            "delay": 6.4
+        },
+        {
+            "station": "ALX",
+            "delay": 22.323624595469255
+        },
+        {
+            "station": "WAS",
+            "delay": 22.882736156351793
+        },
+        {
+            "station": "PHL",
+            "delay": 24.717532467532468
+        },
+        {
+            "station": "NWK",
+            "delay": 24.79742765273312
+        },
+        {
+            "station": "TRE",
+            "delay": 24.884244372990352
+        },
+        {
+            "station": "WIL",
+            "delay": 25.7524115755627
+        },
+        {
+            "station": "BAL",
+            "delay": 25.94533762057878
+        },
+        {
+            "station": "HUN",
+            "delay": 26.01290322580645
+        },
+        {
+            "station": "IND",
+            "delay": 26.31935483870968
+        },
+        {
+            "station": "DYE",
+            "delay": 26.36774193548387
+        },
+        {
+            "station": "AKY",
+            "delay": 27.874193548387098
+        },
+        {
+            "station": "CLF",
+            "delay": 28.275641025641026
+        },
+        {
+            "station": "STA",
+            "delay": 28.472668810289388
+        },
+        {
+            "station": "CIN",
+            "delay": 28.670967741935485
+        },
+        {
+            "station": "REN",
+            "delay": 28.79032258064516
+        },
+        {
+            "station": "LAF",
+            "delay": 29.13225806451613
+        },
+        {
+            "station": "CVS",
+            "delay": 29.694533762057876
+        },
+        {
+            "station": "CHW",
+            "delay": 29.94516129032258
+        },
+        {
+            "station": "COI",
+            "delay": 29.97411003236246
+        },
+        {
+            "station": "MSS",
+            "delay": 30.090032154340836
+        },
+        {
+            "station": "SPM",
+            "delay": 30.980582524271846
+        },
+        {
+            "station": "CLP",
+            "delay": 31.55483870967742
+        },
+        {
+            "station": "MAY",
+            "delay": 31.889967637540455
+        },
+        {
+            "station": "PRC",
+            "delay": 32.27009646302251
+        },
+        {
+            "station": "CRF",
+            "delay": 32.39032258064516
+        },
+        {
+            "station": "MNG",
+            "delay": 33.01298701298701
+        },
+        {
+            "station": "WSS",
+            "delay": 33.0224358974359
+        },
+        {
+            "station": "THN",
+            "delay": 33.670967741935485
+        },
+        {
+            "station": "ALD",
+            "delay": 34.627831715210355
+        },
+        {
+            "station": "HIN",
+            "delay": 34.749196141479096
+        }
+    ],
+    "destination_delay": [{
+            "station": "WAS",
+            "delay": 22.9185667752443
+        },
+        {
+            "station": "HUN",
+            "delay": 23.39677419354839
+        },
+        {
+            "station": "NWK",
+            "delay": 24.54983922829582
+        },
+        {
+            "station": "WIL",
+            "delay": 24.855305466237944
+        },
+        {
+            "station": "TRE",
+            "delay": 25.7524115755627
+        },
+        {
+            "station": "BAL",
+            "delay": 25.983922829581992
+        },
+        {
+            "station": "IND",
+            "delay": 26.080645161290324
+        },
+        {
+            "station": "PHL",
+            "delay": 26.084415584415584
+        },
+        {
+            "station": "CHI",
+            "delay": 26.193548387096776
+        },
+        {
+            "station": "CVS",
+            "delay": 27.517684887459808
+        },
+        {
+            "station": "CIN",
+            "delay": 28.916129032258066
+        },
+        {
+            "station": "NYP",
+            "delay": 47.103896103896105
+        }
+    ]
+},
+{
+    "train": "Amtrak Cascades",
+    "source_delay": [{
+            "station": "VAC",
+            "delay": 0.625
+        },
+        {
+            "station": "EUG",
+            "delay": 0.8695652173913043
+        },
+        {
+            "station": "SEA",
+            "delay": 3.014666666666667
+        },
+        {
+            "station": "PDX",
+            "delay": 6.546411483253588
+        },
+        {
+            "station": "TUK",
+            "delay": 12.951599671862182
+        },
+        {
+            "station": "TAC",
+            "delay": 14.132352941176471
+        },
+        {
+            "station": "VAN",
+            "delay": 15.080750407830342
+        },
+        {
+            "station": "CTL",
+            "delay": 15.375101708706266
+        },
+        {
+            "station": "ORC",
+            "delay": 15.726857142857142
+        },
+        {
+            "station": "OLW",
+            "delay": 15.982871125611746
+        },
+        {
+            "station": "SLM",
+            "delay": 16.11885714285714
+        },
+        {
+            "station": "KEL",
+            "delay": 16.22638436482085
+        },
+        {
+            "station": "ALY",
+            "delay": 16.594285714285714
+        },
+        {
+            "station": "STW",
+            "delay": 17.025925925925925
+        },
+        {
+            "station": "EDM",
+            "delay": 18.823529411764707
+        },
+        {
+            "station": "EVR",
+            "delay": 19.18888888888889
+        },
+        {
+            "station": "MVW",
+            "delay": 20.264705882352942
+        },
+        {
+            "station": "BEL",
+            "delay": 20.655555555555555
+        }
+    ],
+    "destination_delay": [{
+            "station": "PDX",
+            "delay": 10.11888782358581
+        },
+        {
+            "station": "SEA",
+            "delay": 13.040760869565217
+        },
+        {
+            "station": "EUG",
+            "delay": 14.146788990825687
+        },
+        {
+            "station": "VAC",
+            "delay": 35.278195488721806
+        }
+    ]
+},
+{
+    "train": "Auto Train",
+    "source_delay": [{
+            "station": "LOR",
+            "delay": 8.11731843575419
+        },
+        {
+            "station": "SFA",
+            "delay": 10.156862745098039
+        }
+    ],
+    "destination_delay": [{
+            "station": "LOR",
+            "delay": 24.27605633802817
+        },
+        {
+            "station": "SFA",
+            "delay": 27.669467787114847
+        }
+    ]
+},
+{
+    "train": "Capitol Corridor",
+    "source_delay": [{
+            "station": "SJC",
+            "delay": 1.0178474851270958
+        },
+        {
+            "station": "SAC",
+            "delay": 1.909898866074165
+        },
+        {
+            "station": "ARN",
+            "delay": 2.2823129251700682
+        },
+        {
+            "station": "GAC",
+            "delay": 6.519094380796508
+        },
+        {
+            "station": "SCC",
+            "delay": 6.66926720534968
+        },
+        {
+            "station": "EMY",
+            "delay": 6.673931551166355
+        },
+        {
+            "station": "OKJ",
+            "delay": 6.766867469879518
+        },
+        {
+            "station": "BKY",
+            "delay": 6.949839010337231
+        },
+        {
+            "station": "FMT",
+            "delay": 6.9681372549019605
+        },
+        {
+            "station": "HAY",
+            "delay": 7.265178328341955
+        },
+        {
+            "station": "OAC",
+            "delay": 7.306275033377837
+        },
+        {
+            "station": "DAV",
+            "delay": 7.435363790186125
+        },
+        {
+            "station": "FFV",
+            "delay": 7.477533783783784
+        },
+        {
+            "station": "SUI",
+            "delay": 7.533018071271744
+        },
+        {
+            "station": "RIC",
+            "delay": 7.561168384879725
+        },
+        {
+            "station": "MTZ",
+            "delay": 7.910530749789385
+        },
+        {
+            "station": "RSV",
+            "delay": 8.298275862068966
+        },
+        {
+            "station": "RLN",
+            "delay": 8.455017301038062
+        }
+    ],
+    "destination_delay": [{
+            "station": "SJC",
+            "delay": 4.224212812160695
+        },
+        {
+            "station": "SAC",
+            "delay": 4.569756698490915
+        },
+        {
+            "station": "ARN",
+            "delay": 4.672413793103448
+        },
+        {
+            "station": "GAC",
+            "delay": 5
+        },
+        {
+            "station": "OAC",
+            "delay": 6.168478260869565
+        },
+        {
+            "station": "EMY",
+            "delay": 6.399625404392985
+        },
+        {
+            "station": "MTZ",
+            "delay": 6.503454085930918
+        },
+        {
+            "station": "OKJ",
+            "delay": 6.74056999161777
+        }
+    ]
+},
+{
+    "train": "Vermonter",
+    "source_delay": [{
+            "station": "WAS",
+            "delay": 0.13202247191011235
+        },
+        {
+            "station": "SAB",
+            "delay": 0.4470588235294118
+        },
+        {
+            "station": "NYP",
+            "delay": 1.6859259259259258
+        },
+        {
+            "station": "NHV",
+            "delay": 2.5810473815461346
+        },
+        {
+            "station": "ESX",
+            "delay": 2.761904761904762
+        },
+        {
+            "station": "NWK",
+            "delay": 2.951909476661952
+        },
+        {
+            "station": "WAB",
+            "delay": 3.255952380952381
+        },
+        {
+            "station": "BWI",
+            "delay": 3.390697674418605
+        },
+        {
+            "station": "BAL",
+            "delay": 3.6543909348441925
+        },
+        {
+            "station": "MPR",
+            "delay": 3.7142857142857144
+        },
+        {
+            "station": "MET",
+            "delay": 4.0701754385964914
+        },
+        {
+            "station": "TRE",
+            "delay": 4.266666666666667
+        },
+        {
+            "station": "BRP",
+            "delay": 4.2686335403726705
+        },
+        {
+            "station": "PHL",
+            "delay": 4.3936
+        },
+        {
+            "station": "STM",
+            "delay": 4.627329192546584
+        },
+        {
+            "station": "NCR",
+            "delay": 4.773049645390071
+        },
+        {
+            "station": "BLF",
+            "delay": 5.21301775147929
+        },
+        {
+            "station": "RPH",
+            "delay": 5.238095238095238
+        },
+        {
+            "station": "SPG",
+            "delay": 5.309523809523809
+        },
+        {
+            "station": "WRJ",
+            "delay": 5.473053892215569
+        },
+        {
+            "station": "GFD",
+            "delay": 5.9171597633136095
+        },
+        {
+            "station": "CLA",
+            "delay": 5.964497041420119
+        },
+        {
+            "station": "NHT",
+            "delay": 6.023668639053255
+        },
+        {
+            "station": "WIL",
+            "delay": 6.30975954738331
+        },
+        {
+            "station": "WNM",
+            "delay": 6.408284023668639
+        },
+        {
+            "station": "HLK",
+            "delay": 6.514792899408284
+        },
+        {
+            "station": "BRA",
+            "delay": 6.559523809523809
+        },
+        {
+            "station": "MDN",
+            "delay": 7.888888888888889
+        },
+        {
+            "station": "HFD",
+            "delay": 8.871345029239766
+        },
+        {
+            "station": "WNL",
+            "delay": 10.052631578947368
+        }
+    ],
+    "destination_delay": [{
+            "station": "NYP",
+            "delay": 2.5037037037037035
+        },
+        {
+            "station": "NWK",
+            "delay": 2.826025459688826
+        },
+        {
+            "station": "SAB",
+            "delay": 3.0843373493975905
+        },
+        {
+            "station": "BAL",
+            "delay": 3.497167138810198
+        },
+        {
+            "station": "PHL",
+            "delay": 4.206070287539936
+        },
+        {
+            "station": "TRE",
+            "delay": 4.4297872340425535
+        },
+        {
+            "station": "NHV",
+            "delay": 5.083950617283951
+        },
+        {
+            "station": "WAS",
+            "delay": 5.4772727272727275
+        },
+        {
+            "station": "WRJ",
+            "delay": 5.592814371257485
+        },
+        {
+            "station": "WIL",
+            "delay": 5.793493635077794
+        },
+        {
+            "station": "BWI",
+            "delay": 7.4480519480519485
+        },
+        {
+            "station": "SPG",
+            "delay": 10.333333333333334
+        }
+    ]
+},
+{
+    "train": "Keystone Service",
+    "source_delay": [{
+            "station": "HAR",
+            "delay": 0.8025632144094216
+        },
+        {
+            "station": "NYP",
+            "delay": 0.9553571428571429
+        },
+        {
+            "station": "PHL",
+            "delay": 1.4871099050203527
+        },
+        {
+            "station": "EWR",
+            "delay": 2.205
+        },
+        {
+            "station": "MET",
+            "delay": 2.7652582159624415
+        },
+        {
+            "station": "NWK",
+            "delay": 2.8570536828963795
+        },
+        {
+            "station": "ARD",
+            "delay": 2.9971759390002823
+        },
+        {
+            "station": "PAO",
+            "delay": 3.0010561520859005
+        },
+        {
+            "station": "PJC",
+            "delay": 3.0092879256965945
+        },
+        {
+            "station": "TRE",
+            "delay": 3.0145985401459856
+        },
+        {
+            "station": "CWH",
+            "delay": 3.4776119402985075
+        },
+        {
+            "station": "LNC",
+            "delay": 4.365990202939118
+        },
+        {
+            "station": "MID",
+            "delay": 4.4375
+        },
+        {
+            "station": "ELT",
+            "delay": 4.487556957588503
+        },
+        {
+            "station": "PHN",
+            "delay": 4.640449438202247
+        },
+        {
+            "station": "EXT",
+            "delay": 4.912363362231436
+        },
+        {
+            "station": "MJY",
+            "delay": 4.915881849315069
+        },
+        {
+            "station": "NBK",
+            "delay": 5.944954128440367
+        },
+        {
+            "station": "DOW",
+            "delay": 6.093093093093093
+        },
+        {
+            "station": "PAR",
+            "delay": 6.816816190277488
+        },
+        {
+            "station": "COT",
+            "delay": 7.32511708158738
+        }
+    ],
+    "destination_delay": [{
+            "station": "NWK",
+            "delay": 2.3858156028368795
+        },
+        {
+            "station": "HAR",
+            "delay": 2.592425295343989
+        },
+        {
+            "station": "TRE",
+            "delay": 2.858506457046603
+        },
+        {
+            "station": "NYP",
+            "delay": 3.588366890380313
+        },
+        {
+            "station": "PHL",
+            "delay": 3.71401463811331
+        }
+    ]
+},
+{
+    "train": "Maple Leaf",
+    "source_delay": [{
+            "station": "TWO",
+            "delay": 0.08955223880597014
+        },
+        {
+            "station": "NFL",
+            "delay": 1.8309859154929577
+        },
+        {
+            "station": "NYP",
+            "delay": 2.5970149253731343
+        },
+        {
+            "station": "ALB",
+            "delay": 6.616926503340757
+        },
+        {
+            "station": "NFS",
+            "delay": 7.296
+        },
+        {
+            "station": "CRT",
+            "delay": 7.753571428571429
+        },
+        {
+            "station": "POU",
+            "delay": 7.9695885509839
+        },
+        {
+            "station": "RHI",
+            "delay": 8.082289803220036
+        },
+        {
+            "station": "YNY",
+            "delay": 8.104014598540147
+        },
+        {
+            "station": "HUD",
+            "delay": 8.651245551601424
+        },
+        {
+            "station": "BFX",
+            "delay": 9.942528735632184
+        },
+        {
+            "station": "SDY",
+            "delay": 10.555056179775281
+        },
+        {
+            "station": "BUF",
+            "delay": 11.962053571428571
+        },
+        {
+            "station": "ROC",
+            "delay": 16.767857142857142
+        },
+        {
+            "station": "SYR",
+            "delay": 28.369710467706014
+        },
+        {
+            "station": "AMS",
+            "delay": 29.18426966292135
+        },
+        {
+            "station": "UCA",
+            "delay": 29.342984409799556
+        },
+        {
+            "station": "ROM",
+            "delay": 31.320712694877507
+        }
+    ],
+    "destination_delay": [{
+            "station": "TWO",
+            "delay": 3.703125
+        },
+        {
+            "station": "NFS",
+            "delay": 5.52
+        },
+        {
+            "station": "NYP",
+            "delay": 6.633053221288516
+        },
+        {
+            "station": "NFL",
+            "delay": 6.972602739726027
+        },
+        {
+            "station": "ALB",
+            "delay": 8.345744680851064
+        }
+    ]
+},
+{
+    "train": "Adirondack",
+    "source_delay": [{
+            "station": "MTR",
+            "delay": 0.515625
+        },
+        {
+            "station": "NYP",
+            "delay": 3.588888888888889
+        },
+        {
+            "station": "ALB",
+            "delay": 6.160583941605839
+        },
+        {
+            "station": "SLQ",
+            "delay": 7.909836065573771
+        },
+        {
+            "station": "SDY",
+            "delay": 8.715384615384615
+        },
+        {
+            "station": "YNY",
+            "delay": 8.981927710843374
+        },
+        {
+            "station": "CRT",
+            "delay": 9.970414201183432
+        },
+        {
+            "station": "SAR",
+            "delay": 10.32824427480916
+        },
+        {
+            "station": "POU",
+            "delay": 10.888235294117647
+        },
+        {
+            "station": "RHI",
+            "delay": 11.079268292682928
+        },
+        {
+            "station": "WHL",
+            "delay": 12.173228346456693
+        },
+        {
+            "station": "FED",
+            "delay": 12.246153846153845
+        },
+        {
+            "station": "FTC",
+            "delay": 12.433070866141732
+        },
+        {
+            "station": "HUD",
+            "delay": 12.723529411764705
+        },
+        {
+            "station": "POH",
+            "delay": 13.076923076923077
+        },
+        {
+            "station": "PLB",
+            "delay": 13.961538461538462
+        },
+        {
+            "station": "WSP",
+            "delay": 14.870229007633588
+        },
+        {
+            "station": "RSP",
+            "delay": 20.367816091954023
+        }
+    ],
+    "destination_delay": [{
+            "station": "ALB",
+            "delay": 8.006849315068493
+        },
+        {
+            "station": "NYP",
+            "delay": 11.052631578947368
+        },
+        {
+            "station": "PLB",
+            "delay": 12.8
+        },
+        {
+            "station": "RSP",
+            "delay": 13.5
+        },
+        {
+            "station": "MTR",
+            "delay": 18.253968253968253
+        }
+    ]
+},
+{
+    "train": "Piedmont",
+    "source_delay": [{
+            "station": "RGH",
+            "delay": 0.403470715835141
+        },
+        {
+            "station": "CLT",
+            "delay": 0.7576601671309192
+        },
+        {
+            "station": "DNC",
+            "delay": 6.054945054945055
+        },
+        {
+            "station": "CYN",
+            "delay": 6.401709401709402
+        },
+        {
+            "station": "KAN",
+            "delay": 6.580368098159509
+        },
+        {
+            "station": "SAL",
+            "delay": 6.758323057953144
+        },
+        {
+            "station": "GRO",
+            "delay": 6.772616136919315
+        },
+        {
+            "station": "HPT",
+            "delay": 7.022058823529412
+        },
+        {
+            "station": "BNC",
+            "delay": 7.440781440781441
+        }
+    ],
+    "destination_delay": [{
+            "station": "CYN",
+            "delay": 1.3717948717948718
+        },
+        {
+            "station": "HPT",
+            "delay": 3
+        },
+        {
+            "station": "GRO",
+            "delay": 5.732273838630807
+        },
+        {
+            "station": "CLT",
+            "delay": 7.675381263616558
+        },
+        {
+            "station": "RGH",
+            "delay": 9.276536312849162
+        }
+    ]
+},
+{
+    "train": "Carolinian",
+    "source_delay": [{
+            "station": "NYP",
+            "delay": 0.5548387096774193
+        },
+        {
+            "station": "NWK",
+            "delay": 0.6828478964401294
+        },
+        {
+            "station": "TRE",
+            "delay": 1.0711974110032363
+        },
+        {
+            "station": "PHL",
+            "delay": 1.1666666666666667
+        },
+        {
+            "station": "BAL",
+            "delay": 2.6451612903225805
+        },
+        {
+            "station": "WIL",
+            "delay": 2.9516129032258065
+        },
+        {
+            "station": "WAS",
+            "delay": 3.3171521035598706
+        },
+        {
+            "station": "RVR",
+            "delay": 4.3462783171521036
+        },
+        {
+            "station": "ALX",
+            "delay": 5.609677419354838
+        },
+        {
+            "station": "FBG",
+            "delay": 6.006451612903226
+        },
+        {
+            "station": "QAN",
+            "delay": 6.042345276872964
+        },
+        {
+            "station": "PTB",
+            "delay": 6.790322580645161
+        },
+        {
+            "station": "RGH",
+            "delay": 10.785488958990536
+        },
+        {
+            "station": "CYN",
+            "delay": 12.217391304347826
+        },
+        {
+            "station": "SSM",
+            "delay": 14.623376623376624
+        },
+        {
+            "station": "DNC",
+            "delay": 15.0527950310559
+        },
+        {
+            "station": "RMT",
+            "delay": 15.587662337662337
+        },
+        {
+            "station": "WLN",
+            "delay": 16.356209150326798
+        },
+        {
+            "station": "GRO",
+            "delay": 16.442367601246104
+        },
+        {
+            "station": "HPT",
+            "delay": 18.593167701863354
+        },
+        {
+            "station": "KAN",
+            "delay": 19.06875
+        },
+        {
+            "station": "SAL",
+            "delay": 19.183229813664596
+        },
+        {
+            "station": "BNC",
+            "delay": 19.273291925465838
+        }
+    ],
+    "destination_delay": [{
+            "station": "NWK",
+            "delay": 0.6957928802588996
+        },
+        {
+            "station": "WAS",
+            "delay": 1.1521035598705502
+        },
+        {
+            "station": "TRE",
+            "delay": 1.6990291262135921
+        },
+        {
+            "station": "PHL",
+            "delay": 1.892156862745098
+        },
+        {
+            "station": "WIL",
+            "delay": 2.9290322580645163
+        },
+        {
+            "station": "RVR",
+            "delay": 4.100323624595469
+        },
+        {
+            "station": "BAL",
+            "delay": 4.519354838709678
+        },
+        {
+            "station": "RGH",
+            "delay": 9.482084690553746
+        },
+        {
+            "station": "CLT",
+            "delay": 15.4472049689441
+        },
+        {
+            "station": "GRO",
+            "delay": 16.20872274143302
+        }
+    ]
+},
+{
+    "train": "Heartland Flyer",
+    "source_delay": [{
+            "station": "OKC",
+            "delay": 0.21978021978021978
+        },
+        {
+            "station": "FTW",
+            "delay": 1.4297520661157024
+        },
+        {
+            "station": "NOR",
+            "delay": 11.425619834710744
+        },
+        {
+            "station": "GLE",
+            "delay": 12.121045392022008
+        },
+        {
+            "station": "PUR",
+            "delay": 13.138927097661623
+        },
+        {
+            "station": "PVL",
+            "delay": 13.89958734525447
+        },
+        {
+            "station": "ADM",
+            "delay": 14.59697386519945
+        }
+    ],
+    "destination_delay": [{
+            "station": "OKC",
+            "delay": 11.253443526170798
+        },
+        {
+            "station": "FTW",
+            "delay": 11.777472527472527
+        }
+    ]
+},
+{
+    "train": "Palmetto",
+    "source_delay": [{
+            "station": "NYP",
+            "delay": 0.13271604938271606
+        },
+        {
+            "station": "NBK",
+            "delay": 0.7808641975308642
+        },
+        {
+            "station": "PJC",
+            "delay": 0.7857142857142857
+        },
+        {
+            "station": "SAV",
+            "delay": 1.263157894736842
+        },
+        {
+            "station": "PHL",
+            "delay": 7.47962382445141
+        },
+        {
+            "station": "NWK",
+            "delay": 7.689922480620155
+        },
+        {
+            "station": "TRE",
+            "delay": 7.829721362229102
+        },
+        {
+            "station": "WAS",
+            "delay": 7.940298507462686
+        },
+        {
+            "station": "MET",
+            "delay": 8.020186335403727
+        },
+        {
+            "station": "BAL",
+            "delay": 8.298136645962733
+        },
+        {
+            "station": "BWI",
+            "delay": 8.689922480620154
+        },
+        {
+            "station": "WIL",
+            "delay": 8.91937984496124
+        },
+        {
+            "station": "NCR",
+            "delay": 13.514018691588785
+        },
+        {
+            "station": "ALX",
+            "delay": 17.622574955908288
+        },
+        {
+            "station": "RVR",
+            "delay": 18.210896309314588
+        },
+        {
+            "station": "RMT",
+            "delay": 18.657293497363796
+        },
+        {
+            "station": "FLO",
+            "delay": 20.399647887323944
+        },
+        {
+            "station": "KTR",
+            "delay": 21.20212765957447
+        },
+        {
+            "station": "CHS",
+            "delay": 21.271929824561404
+        },
+        {
+            "station": "YEM",
+            "delay": 21.7311072056239
+        },
+        {
+            "station": "PTB",
+            "delay": 22.757042253521128
+        },
+        {
+            "station": "DIL",
+            "delay": 22.87719298245614
+        },
+        {
+            "station": "WLN",
+            "delay": 23.17750439367311
+        },
+        {
+            "station": "FAY",
+            "delay": 23.575438596491228
+        },
+        {
+            "station": "SSM",
+            "delay": 24.471001757469246
+        }
+    ],
+    "destination_delay": [{
+            "station": "NWK",
+            "delay": 7.127131782945736
+        },
+        {
+            "station": "PHL",
+            "delay": 7.644200626959248
+        },
+        {
+            "station": "TRE",
+            "delay": 8.1640866873065
+        },
+        {
+            "station": "WIL",
+            "delay": 8.604651162790697
+        },
+        {
+            "station": "BAL",
+            "delay": 8.633540372670808
+        },
+        {
+            "station": "BWI",
+            "delay": 8.713178294573643
+        },
+        {
+            "station": "WAS",
+            "delay": 10.474295190713102
+        },
+        {
+            "station": "NCR",
+            "delay": 12
+        },
+        {
+            "station": "NYP",
+            "delay": 13.141065830721002
+        },
+        {
+            "station": "MET",
+            "delay": 14.25
+        },
+        {
+            "station": "RVR",
+            "delay": 18.05096660808436
+        },
+        {
+            "station": "FLO",
+            "delay": 18.345070422535212
+        },
+        {
+            "station": "SAV",
+            "delay": 33.15492957746479
+        }
+    ]
+},
+{
+    "train": "Silver Star",
+    "source_delay": [{
+            "station": "MIA",
+            "delay": 0.13278008298755187
+        },
+        {
+            "station": "NYP",
+            "delay": 1.8326530612244898
+        },
+        {
+            "station": "WLN",
+            "delay": 16.444444444444443
+        },
+        {
+            "station": "SSM",
+            "delay": 16.77777777777778
+        },
+        {
+            "station": "HOL",
+            "delay": 18.11627906976744
+        },
+        {
+            "station": "FTL",
+            "delay": 19.169456066945607
+        },
+        {
+            "station": "DLB",
+            "delay": 21.256900212314225
+        },
+        {
+            "station": "NWK",
+            "delay": 21.31211498973306
+        },
+        {
+            "station": "WPB",
+            "delay": 21.65481171548117
+        },
+        {
+            "station": "DFB",
+            "delay": 21.74579831932773
+        },
+        {
+            "station": "TRE",
+            "delay": 25.8272921108742
+        },
+        {
+            "station": "PHL",
+            "delay": 26.56774193548387
+        },
+        {
+            "station": "ORL",
+            "delay": 26.750524109014677
+        },
+        {
+            "station": "BAL",
+            "delay": 26.818763326226012
+        },
+        {
+            "station": "WAS",
+            "delay": 27.791666666666668
+        },
+        {
+            "station": "WIL",
+            "delay": 28.73617021276596
+        },
+        {
+            "station": "JAX",
+            "delay": 29.243697478991596
+        },
+        {
+            "station": "WPK",
+            "delay": 29.37735849056604
+        },
+        {
+            "station": "DLD",
+            "delay": 30.67505241090147
+        },
+        {
+            "station": "TPA",
+            "delay": 30.870020964360588
+        },
+        {
+            "station": "KIS",
+            "delay": 30.937106918238992
+        },
+        {
+            "station": "LAK",
+            "delay": 31.60587002096436
+        },
+        {
+            "station": "LKL",
+            "delay": 32.72175732217573
+        },
+        {
+            "station": "RGH",
+            "delay": 32.895705521472394
+        },
+        {
+            "station": "OKE",
+            "delay": 32.94736842105263
+        },
+        {
+            "station": "PAK",
+            "delay": 32.99579831932773
+        },
+        {
+            "station": "ALX",
+            "delay": 34.27254098360656
+        },
+        {
+            "station": "CLB",
+            "delay": 35.466257668711656
+        },
+        {
+            "station": "SBG",
+            "delay": 36.69117647058823
+        },
+        {
+            "station": "WTH",
+            "delay": 36.75681341719078
+        },
+        {
+            "station": "CAM",
+            "delay": 37.26694045174538
+        },
+        {
+            "station": "CYN",
+            "delay": 37.6
+        },
+        {
+            "station": "SOP",
+            "delay": 38.23721881390593
+        },
+        {
+            "station": "RVR",
+            "delay": 38.61270491803279
+        },
+        {
+            "station": "SAV",
+            "delay": 38.63469387755102
+        },
+        {
+            "station": "HAM",
+            "delay": 38.94683026584867
+        },
+        {
+            "station": "RMT",
+            "delay": 39
+        },
+        {
+            "station": "DNK",
+            "delay": 41.155102040816324
+        },
+        {
+            "station": "PTB",
+            "delay": 41.36734693877551
+        }
+    ],
+    "destination_delay": [{
+            "station": "NWK",
+            "delay": 22.57700205338809
+        },
+        {
+            "station": "TRE",
+            "delay": 25.45628997867804
+        },
+        {
+            "station": "PHL",
+            "delay": 26.38064516129032
+        },
+        {
+            "station": "ORL",
+            "delay": 26.90146750524109
+        },
+        {
+            "station": "BAL",
+            "delay": 27.4818763326226
+        },
+        {
+            "station": "WAS",
+            "delay": 27.54375
+        },
+        {
+            "station": "WIL",
+            "delay": 27.85531914893617
+        },
+        {
+            "station": "TPA",
+            "delay": 28.51673640167364
+        },
+        {
+            "station": "JAX",
+            "delay": 30.281837160751564
+        },
+        {
+            "station": "SAV",
+            "delay": 31.183673469387756
+        },
+        {
+            "station": "HAM",
+            "delay": 32.14519427402863
+        },
+        {
+            "station": "MIA",
+            "delay": 33.22362869198312
+        },
+        {
+            "station": "RGH",
+            "delay": 33.23312883435583
+        },
+        {
+            "station": "RVR",
+            "delay": 37.41188524590164
+        },
+        {
+            "station": "NYP",
+            "delay": 38.789256198347104
+        },
+        {
+            "station": "CYN",
+            "delay": 50.26938775510204
+        }
+    ]
+},
+{
+    "train": "Silver Meteor",
+    "source_delay": [{
+            "station": "NYP",
+            "delay": 1.198581560283688
+        },
+        {
+            "station": "MIA",
+            "delay": 1.3186813186813187
+        },
+        {
+            "station": "HOL",
+            "delay": 17.093406593406595
+        },
+        {
+            "station": "DLB",
+            "delay": 17.45981308411215
+        },
+        {
+            "station": "FTL",
+            "delay": 17.655677655677657
+        },
+        {
+            "station": "NWK",
+            "delay": 17.814285714285713
+        },
+        {
+            "station": "PHL",
+            "delay": 18.062836624775585
+        },
+        {
+            "station": "TRE",
+            "delay": 18.081818181818182
+        },
+        {
+            "station": "DFB",
+            "delay": 18.26691042047532
+        },
+        {
+            "station": "WPB",
+            "delay": 19.32422586520947
+        },
+        {
+            "station": "WIL",
+            "delay": 20.075675675675676
+        },
+        {
+            "station": "BAL",
+            "delay": 21.545780969479353
+        },
+        {
+            "station": "ORL",
+            "delay": 21.714285714285715
+        },
+        {
+            "station": "WAS",
+            "delay": 22.064400715563508
+        },
+        {
+            "station": "KIS",
+            "delay": 23.93235831809872
+        },
+        {
+            "station": "WTH",
+            "delay": 24.323583180987203
+        },
+        {
+            "station": "WPK",
+            "delay": 25.115173674588664
+        },
+        {
+            "station": "SBG",
+            "delay": 25.47531992687386
+        },
+        {
+            "station": "DLD",
+            "delay": 25.587912087912088
+        },
+        {
+            "station": "ALX",
+            "delay": 26.57706093189964
+        },
+        {
+            "station": "JAX",
+            "delay": 28.96
+        },
+        {
+            "station": "FLO",
+            "delay": 30.0125
+        },
+        {
+            "station": "RVR",
+            "delay": 30.11449016100179
+        },
+        {
+            "station": "FBG",
+            "delay": 31.900552486187845
+        },
+        {
+            "station": "PAK",
+            "delay": 32.05667276051188
+        },
+        {
+            "station": "RMT",
+            "delay": 34.74060822898032
+        },
+        {
+            "station": "CHS",
+            "delay": 36.10733452593918
+        },
+        {
+            "station": "FAY",
+            "delay": 36.6415770609319
+        },
+        {
+            "station": "KTR",
+            "delay": 36.86096256684492
+        },
+        {
+            "station": "PTB",
+            "delay": 36.92114695340502
+        },
+        {
+            "station": "JSP",
+            "delay": 38.658135283363805
+        },
+        {
+            "station": "YEM",
+            "delay": 39.09481216457961
+        },
+        {
+            "station": "SAV",
+            "delay": 40.01607142857143
+        }
+    ],
+    "destination_delay": [{
+            "station": "NWK",
+            "delay": 17.68222621184919
+        },
+        {
+            "station": "TRE",
+            "delay": 18.28181818181818
+        },
+        {
+            "station": "PHL",
+            "delay": 18.320720720720722
+        },
+        {
+            "station": "WIL",
+            "delay": 19.956756756756757
+        },
+        {
+            "station": "BAL",
+            "delay": 21.303411131059246
+        },
+        {
+            "station": "MIA",
+            "delay": 22.01098901098901
+        },
+        {
+            "station": "WAS",
+            "delay": 22.082289803220036
+        },
+        {
+            "station": "ORL",
+            "delay": 22.82783882783883
+        },
+        {
+            "station": "RVR",
+            "delay": 29.61180679785331
+        },
+        {
+            "station": "FLO",
+            "delay": 29.88235294117647
+        },
+        {
+            "station": "JAX",
+            "delay": 30.91256830601093
+        },
+        {
+            "station": "NYP",
+            "delay": 33.65107913669065
+        },
+        {
+            "station": "SAV",
+            "delay": 34.26607142857143
+        }
+    ]
+}
+]

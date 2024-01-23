@@ -1,0 +1,133 @@
+[
+  { "Cause": "Amtrak","Year": 2013,"Hours": 22379},
+  {
+    "Cause": "Host railroad",
+    "Year": 2013,
+    "Hours": 44632
+  },
+  {
+    "Cause": "Other",
+    "Year": 2013,
+    "Hours": 11592
+  },
+  {
+    "Cause": "Amtrak",
+    "Year": 2014,
+    "Hours": 31787
+  },
+  {
+    "Cause": "Host railroad",
+    "Year": 2014,
+    "Hours": 57413
+  },
+  {
+    "Cause": "Other",
+    "Year": 2014,
+    "Hours": 10816
+  },
+  {
+    "Cause": "Amtrak",
+    "Year": 2015,
+    "Hours": 31582
+  },
+  {
+    "Cause": "Host railroad",
+    "Year": 2015,
+    "Hours": 57701
+  },
+  {
+    "Cause": "Other",
+    "Year": 2015,
+    "Hours": 12774
+  },
+  {
+    "Cause": "Amtrak",
+    "Year": 2016,
+    "Hours": 26339
+  },
+  {
+    "Cause": "Host railroad",
+    "Year": 2016,
+    "Hours": 48555
+  },
+  {
+    "Cause": "Other",
+    "Year": 2016,
+    "Hours": 15087
+  },
+  {
+    "Cause": "Amtrak",
+    "Year": 2017,
+    "Hours": 27451
+  },
+  {
+    "Cause": "Host railroad",
+    "Year": 2017,
+    "Hours": 53332
+  },
+  {
+    "Cause": "Other",
+    "Year": 2017,
+    "Hours": 14250
+  },
+  {
+    "Cause": "Amtrak",
+    "Year": 2018,
+    "Hours": 26967
+  },
+  {
+    "Cause": "Host railroad",
+    "Year": 2018,
+    "Hours": 55217
+  },
+  {
+    "Cause": "Other",
+    "Year": 2018,
+    "Hours": 14194
+  },
+  {
+    "Cause": "Amtrak",
+    "Year": 2019,
+    "Hours": 30589
+  },
+  {
+    "Cause": "Host railroad",
+    "Year": 2019,
+    "Hours": 53702
+  },
+  {
+    "Cause": "Other",
+    "Year": 2019,
+    "Hours": 12670
+  },
+  {
+    "Cause": "Amtrak",
+    "Year": 2020,
+    "Hours": 15690
+  },
+  {
+    "Cause": "Host railroad",
+    "Year": 2020,
+    "Hours": 41868
+  },
+  {
+    "Cause": "Other",
+    "Year": 2020,
+    "Hours": 15707
+  },
+  {
+    "Cause": "Amtrak",
+    "Year": 2021,
+    "Hours": 12080
+  },
+  {
+    "Cause": "Host railroad",
+    "Year": 2021,
+    "Hours": 34397
+  },
+  {
+    "Cause": "Other",
+    "Year": 2021,
+    "Hours": 12597
+  }
+]

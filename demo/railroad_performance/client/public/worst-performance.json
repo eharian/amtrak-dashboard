@@ -1,0 +1,10 @@
+[
+    {"Train": "Silver Meteor", "OTP": 34, "Direction":"Northbound"},
+    {"Train": "Silver Meteor", "OTP": 83, "Direction":"Southbound"},
+    {"Train": "Silver Star", "OTP": 23, "Direction":"Northbound"},
+    {"Train": "Silver Star", "OTP": 89, "Direction":"Southbound"},
+    {"Train": "Cardinal", "OTP": 33, "Direction":"Northbound"},
+    {"Train": "Cardinal", "OTP": 88, "Direction":"Southbound"},
+    {"Train": "Crescent", "OTP": 14, "Direction":"Northbound"},
+    {"Train": "Crescent", "OTP": 93, "Direction":"Southbound"}
+]

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<!-- <head>
+    <title>DSCI 554 Assignment</title>
+</head> -->
+
+<link href="./node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+<link href="node_modules/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+<link href="./style.css" rel="stylesheet" >
+
+<script src='./node_modules/d3/dist/d3.min.js'></script>
+<script src='./node_modules/d3-format/dist/d3-format.min.js'></script>
+<script src='./node_modules/dayjs/dayjs.min.js'></script>
+
+<body>
+    <!-- <div>Soumeya Kerrar <a href="mailto:username@usc.edu">kerrar@usc.edu</a></div>
+    <div>Assignment 7</div>
+
+    <h3>Data Description</h3>
+    <p>
+        The data chosen depicts the central government expenditures allocated to health of Australia, Austria, Belarus,
+        Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark and Germany.
+        <br>
+        The link to the data is taken from UN Data, and can be found <a href="https://data.un.org/Data.aspx?q=health&d=SOWC&f=inID%3a85">here</a>.
+    </p> -->
+
+    <h3>Bar Chart</h3>
+    <div id="barchart"></div>
+      
+    <div class="container" id="barchart">
+        <button type="button" class="btn btn-primary" id="Ridership_asc">sort ascending by value</button>
+        <button type="button" class="btn btn-primary" id="Ridership_des">sort descending by value</button>
+        <button type="button" class="btn btn-primary" id="Station_alphabetical">sort alphabetically</button>
+        <button type="button" class="btn btn-success" id="top5">top 5</button>
+        <button type="button" class="btn btn-success" id="bottom5">bottom 5</button>
+        <button type="button" class="btn btn-success" id="all10">all 10</button>   
+        <button type="button" class="btn btn-danger" id="reset">reset</button> 
+    </div>    
+
+
+</body>
+<script src="./barchart.js"></script>
+</html>
